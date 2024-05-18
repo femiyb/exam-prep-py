@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary focus of IT governance?",
+    "options": [
+      "Ensuring IT projects are completed on time",
+      "Maximizing the investment in IT",
+      "Ensuring IT resources are used responsibly and align with business goals",
+      "Reducing the cost of IT infrastructure"
+    ],
+    "correctAnswer": "Ensuring IT resources are used responsibly and align with business goals"
+  },
+  {
+    "id": 2,
+    "question": "Which framework is designed for managing IT risks and security?",
+    "options": [
+      "COBIT",
+      "ITIL",
+      "ISO/IEC 27001",
+      "SWOT Analysis"
+    ],
+    "correctAnswer": "ISO/IEC 27001"
+  },
+  {
+    "id": 3,
+    "question": "What does the Information Systems Strategy Triangle highlight?",
+    "options": [
+      "The need for IT professionals only",
+      "The alignment between business, IT strategy, and organizational design",
+      "The importance of having the latest technology",
+      "The benefits of outsourcing IT services"
+    ],
+    "correctAnswer": "The alignment between business, IT strategy, and organizational design"
+  },
+  {
+    "id": 4,
+    "question": "Which is not a component of the Information Systems Strategy Triangle?",
+    "options": [
+      "Business Strategy",
+      "IT Strategy",
+      "Marketing Strategy",
+      "Organizational Strategy"
+    ],
+    "correctAnswer": "Marketing Strategy"
+  },
+  {
+    "id": 5,
+    "question": "In IT governance, what role does alignment play?",
+    "options": [
+      "Ensures that IT processes are efficient",
+      "Aligns IT and business strategies to achieve business goals",
+      "Guarantees that IT budgets are spent wisely",
+      "Makes sure that IT staff are well-trained"
+    ],
+    "correctAnswer": "Aligns IT and business strategies to achieve business goals"
+  },
+  {
+    "id": 6,
+    "question": "What is the primary goal of IT strategic alignment?",
+    "options": [
+      "To reduce IT costs",
+      "To ensure IT projects are managed well",
+      "To align IT strategy with business objectives",
+      "To increase the size of the IT department"
+    ],
+    "correctAnswer": "To align IT strategy with business objectives"
+  },
+  {
+    "id": 7,
+    "question": "Which is an example of a strategic risk in IT governance?",
+    "options": [
+      "Hardware failure",
+      "Misalignment between IT and business strategies",
+      "Phishing attacks",
+      "Software bugs"
+    ],
+    "correctAnswer": "Misalignment between IT and business strategies"
+  },
+  {
+    "id": 8,
+    "question": "What does the term 'digital transformation' refer to?",
+    "options": [
+      "Converting physical files to digital format",
+      "Shifting from traditional to digital marketing strategies",
+      "Using digital technology to radically improve performance or reach",
+      "Upgrading digital devices in the organization"
+    ],
+    "correctAnswer": "Using digital technology to radically improve performance or reach"
+  },
+  {
+    "id": 9,
+    "question": "Which is a key component of managing information security within an organization?",
+    "options": [
+      "Regularly updating the website",
+      "Conducting annual performance reviews",
+      "Implementing strong access control measures",
+      "Increasing the IT budget"
+    ],
+    "correctAnswer": "Implementing strong access control measures"
+  },
+  {
+    "id": 10,
+    "question": "In the context of IT audits, what is a primary focus?",
+    "options": [
+      "Reviewing financial statements",
+      "Ensuring IT systems align with organizational goals",
+      "Assessing the physical security of IT equipment",
+      "Evaluating employee satisfaction with IT"
+    ],
+    "correctAnswer": "Ensuring IT systems align with organizational goals"
+  },
+  {
+    "id": 11,
+    "question": "What is the main purpose of compliance in IT governance?",
+    "options": [
+      "To ensure all employees are satisfied with IT",
+      "To guarantee the IT department is the largest department",
+      "To adhere to laws, regulations, and policies affecting IT systems",
+      "To make sure IT projects are the most funded"
+    ],
+    "correctAnswer": "To adhere to laws, regulations, and policies affecting IT systems"
+  },
+  {
+    "id": 12,
+    "question": "Which statement best defines IT strategic planning?",
+    "options": [
+      "Planning how to use social media",
+      "Deciding on the IT projects to be done in a year",
+      "Developing long-term actions to achieve the business goals through IT",
+      "Choosing which new technologies to purchase"
+    ],
+    "correctAnswer": "Developing long-term actions to achieve the business goals through IT"
+  },
+  {
+    "id": 13,
+    "question": "How does an IT strategy audit benefit an organization?",
+    "options": [
+      "By ensuring all employees have smartphones",
+      "Identifying misalignments and gaps between IT and business strategies",
+      "Guaranteeing the fastest internet connection",
+      "Making sure the organization has the most current technology"
+    ],
+    "correctAnswer": "Identifying misalignments and gaps between IT and business strategies"
+  },
+  {
+    "id": 14,
+    "question": "What role does organizational design play in IT governance?",
+    "options": [
+      "Ensures that IT is solely in charge of decision-making",
+      "Aligns structures and processes to support the execution of IT strategies",
+      "Isolates IT from the rest of the business strategies",
+      "Focuses on the design of IT software only"
+    ],
+    "correctAnswer": "Aligns structures and processes to support the execution of IT strategies"
+  },
+  {
+    "id": 15,
+    "question": "Which is not typically a focus of IT risk management?",
+    "options": [
+      "Identifying potential IT failures",
+      "Assessing the impact of new marketing strategies",
+      "Mitigating risks associated with IT operations",
+      "Developing a response plan for IT-related incidents"
+    ],
+    "correctAnswer": "Assessing the impact of new marketing strategies"
+  },
+  {
+    "id": 16,
+    "question": "What does SWOT analysis in IT strategic planning typically assess?",
+    "options": [
+      "Strengths, Weaknesses, Opportunities, Threats within the IT framework",
+      "Salaries, Work hours, Overtime, Training of IT staff",
+      "Software, Websites, Online platforms, Technology trends",
+      "Security, Wi-Fi, Operations, Telecommunications"
+    ],
+    "correctAnswer": "Strengths, Weaknesses, Opportunities, Threats within the IT framework"
+  },
+  {
+    "id": 17,
+    "question": "Which statement best describes the relationship between IT and business performance?",
+    "options": [
+      "There is no significant relationship.",
+      "IT performance directly affects overall business performance.",
+      "Business performance is solely dependent on marketing strategies.",
+      "IT performance is only relevant in tech companies."
+    ],
+    "correctAnswer": "IT performance directly affects overall business performance."
+  },
+  {
+    "id": 18,
+    "question": "What is the purpose of an IT compliance audit?",
+    "options": [
+      "To plan the annual IT department picnic",
+      "To ensure IT systems and processes comply with legal and regulatory requirements",
+      "To audit the personal devices of employees",
+      "To review the social media strategy"
+    ],
+    "correctAnswer": "To ensure IT systems and processes comply with legal and regulatory requirements"
+  },
+  {
+    "id": 19,
+    "question": "Which best describes a benefit of digital transformation for businesses?",
+    "options": [
+      "Reduces the need for IT in business operations",
+      "Transforms all paper documents to digital format",
+      "Enhances business performance through the innovative use of digital technology",
+      "Ensures that all employees are active on social media"
+    ],
+    "correctAnswer": "Enhances business performance through the innovative use of digital technology"
+  },
+  {
+    "id": 20,
+    "question": "What typically triggers a need for IT strategic realignment?",
+    "options": [
+      "Changes in global temperatures",
+      "Shifts in business strategy, market conditions, or technology",
+      "Annual IT department evaluations",
+      "The launch of a new social media platform"
+    ],
+    "correctAnswer": "Shifts in business strategy, market conditions, or technology"
+  },
+  {
+    "id": 21,
+    "question": "What is a key principle of effective IT risk management?",
+    "options": [
+      "Focusing solely on external threats",
+      "Ignoring low-probability risks",
+      "Prioritizing risks based on their impact on business objectives",
+      "Treating all risks with the same level of importance"
+    ],
+    "correctAnswer": "Prioritizing risks based on their impact on business objectives"
+  },
+  {
+    "id": 22,
+    "question": "In the context of IT governance, what does managing IT as a business mean?",
+    "options": [
+      "Limiting the role of IT to technical support",
+      "Ensuring IT initiatives align with and drive business objectives",
+      "Operating IT without consideration for business strategy",
+      "Focusing IT solely on cutting costs"
+    ],
+    "correctAnswer": "Ensuring IT initiatives align with and drive business objectives"
+  },
+  {
+    "id": 23,
+    "question": "Which is not a benefit of aligning IT strategy with business strategy?",
+    "options": [
+      "Enhanced competitive advantage",
+      "Decreased operational efficiency",
+      "Improved customer satisfaction",
+      "Better resource allocation"
+    ],
+    "correctAnswer": "Decreased operational efficiency"
+  },
+  {
+    "id": 24,
+    "question": "What is the primary goal of IT compliance?",
+    "options": [
+      "To have the most followers on social media",
+      "To ensure IT practices conform to established standards and regulations",
+      "To implement the latest technology trends",
+      "To oversee the annual IT department budget"
+    ],
+    "correctAnswer": "To ensure IT practices conform to established standards and regulations"
+  },
+  {
+    "id": 25,
+    "question": "How does IT governance contribute to strategic planning?",
+    "options": [
+      "By focusing solely on IT infrastructure",
+      "Through ensuring that IT strategies support the organization’s strategic objectives",
+      "By isolating IT decision-making from business strategy",
+      "Through mandating technology use in all business operations"
+    ],
+    "correctAnswer": "Through ensuring that IT strategies support the organization’s strategic objectives"
+  },
+  {
+    "id": 26,
+    "question": "What is the result of successful IT and business strategy alignment?",
+    "options": [
+      "A reduction in the need for IT staff",
+      "Enhanced organizational agility and capability to respond to market changes",
+      "Decreased reliance on technology",
+      "Increased IT expenses"
+    ],
+    "correctAnswer": "Enhanced organizational agility and capability to respond to market changes"
+  },
+  {
+    "id": 27,
+    "question": "Which is a critical factor in managing IT security within an organization?",
+    "options": [
+      "Limiting internet access",
+      "Regular training and awareness for all employees",
+      "Using only free software",
+      "Decreasing the IT budget"
+    ],
+    "correctAnswer": "Regular training and awareness for all employees"
+  },
+  {
+    "id": 28,
+    "question": "What role does IT play in digital transformation?",
+    "options": [
+      "Acts as a barrier to change",
+      "Drives the transformation by enabling new digital business models and services",
+      "Is irrelevant to digital transformation",
+      "Focuses solely on upgrading hardware"
+    ],
+    "correctAnswer": "Drives the transformation by enabling new digital business models and services"
+  },
+  {
+    "id": 29,
+    "question": "In the context of IT governance, what is the significance of strategic alignment?",
+    "options": [
+      "Ensures IT strategies are kept secret from competitors",
+      "Aligns IT initiatives with business strategies to achieve corporate goals",
+      "Prioritizes IT strategies over business strategies",
+      "Focuses only on aligning IT budgets with executive salaries"
+    ],
+    "correctAnswer": "Aligns IT initiatives with business strategies to achieve corporate goals"
+  },
+  {
+    "id": 30,
+    "question": "Why is IT risk management important?",
+    "options": [
+      "It ensures all employees understand IT jargon",
+      "It identifies, assesses, and prioritizes IT-related risks to minimize their impact on the business",
+      "It focuses on purchasing the latest technology regardless of cost",
+      "It guarantees a fixed IT budget annually"
+    ],
+    "correctAnswer": "It identifies, assesses, and prioritizes IT-related risks to minimize their impact on the business"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is not a focus of IT strategic planning?",
+    "options": [
+      "Determining IT budget based on past expenditures",
+      "Aligning IT initiatives with future business goals",
+      "Evaluating new technologies for business application",
+      "Planning for IT workforce development"
+    ],
+    "correctAnswer": "Determining IT budget based on past expenditures"
+  },
+  {
+    "id": 32,
+    "question": "What does IT governance framework aim to achieve?",
+    "options": [
+      "Restrict the use of technology in business",
+      "Align IT operations with business objectives, ensuring value from IT investments",
+      "Decrease the influence of IT in strategic business decisions",
+      "Centralize all IT decisions within the IT department"
+    ],
+    "correctAnswer": "Align IT operations with business objectives, ensuring value from IT investments"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following best describes the role of IT in business strategy execution?",
+    "options": [
+      "To follow business strategy without influencing it",
+      "To lead business strategy direction",
+      "To support and enable the realization of strategic business goals",
+      "To operate independently of business strategy"
+    ],
+    "correctAnswer": "To support and enable the realization of strategic business goals"
+  },
+  {
+    "id": 34,
+    "question": "In IT compliance, which of the following is a key focus area?",
+    "options": [
+      "Ensuring all software is open-source",
+      "Adherence to legal, regulatory, and policy requirements affecting IT systems",
+      "Focusing solely on the aesthetic aspects of IT systems",
+      "Prioritizing entertainment over business applications"
+    ],
+    "correctAnswer": "Adherence to legal, regulatory, and policy requirements affecting IT systems"
+  },
+  {
+    "id": 35,
+    "question": "What is a significant challenge in aligning IT strategy with business strategy?",
+    "options": [
+      "Too few IT projects to manage",
+      "Rapid changes in technology and business environments",
+      "Overemphasis on IT in business meetings",
+      "Lack of interest in technology among business leaders"
+    ],
+    "correctAnswer": "Rapid changes in technology and business environments"
+  },
+  {
+    "id": 36,
+    "question": "Why is a strategic approach to information security necessary?",
+    "options": [
+      "It ensures all staff have fun at work",
+      "It aligns security initiatives with business objectives to protect critical information assets",
+      "It focuses on the unlimited budget for security technologies",
+      "To make IT the sole focus of the organization"
+    ],
+    "correctAnswer": "It aligns security initiatives with business objectives to protect critical information assets"
+  },
+  {
+    "id": 37,
+    "question": "What impact does digital transformation have on an organization's competitive advantage?",
+    "options": [
+      "It reduces the organization’s competitiveness",
+      "It has no impact on competitive advantage",
+      "It can significantly enhance the organization's ability to compete in the digital economy",
+      "It makes the organization less attractive to digital-savvy employees"
+    ],
+    "correctAnswer": "It can significantly enhance the organization's ability to compete in the digital economy"
+  },
+  {
+    "id": 38,
+    "question": "How does effective IT governance support business innovation?",
+    "options": [
+      "By restricting access to new technologies",
+      "Through strategic use of IT to enable new business models and services",
+      "By focusing exclusively on maintaining existing IT systems",
+      "Through cutting IT research and development budgets"
+    ],
+    "correctAnswer": "Through strategic use of IT to enable new business models and services"
+  },
+  {
+    "id": 39,
+    "question": "What is the role of IT in managing and using information systems strategically?",
+    "options": [
+      "To ignore business strategies and focus on IT operations",
+      "To use IT strategically to enhance business processes and decision-making",
+      "To increase IT complexity and cost",
+      "To limit the organization's digital presence"
+    ],
+    "correctAnswer": "To use IT strategically to enhance business processes and decision-making"
+  },
+  {
+    "id": 40,
+    "question": "What does the future of IT governance likely involve?",
+    "options": [
+      "Decreased focus on technology in business",
+      "Greater integration of IT strategy with overall business strategy",
+      "Less emphasis on IT security and risk management",
+      "Moving away from digital transformation initiatives"
+    ],
+    "correctAnswer": "Greater integration of IT strategy with overall business strategy"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following best describes the main objective of IT service management (ITSM)?",
+    "options": [
+      "Developing software applications quickly",
+      "Managing IT services to meet business needs",
+      "Reducing the size of the IT department",
+      "Increasing the IT budget annually"
+    ],
+    "correctAnswer": "Managing IT services to meet business needs"
+  },
+  {
+    "id": 42,
+    "question": "What is the primary purpose of an IT balanced scorecard?",
+    "options": [
+      "To measure financial performance only",
+      "To balance IT budgets with department needs",
+      "To align IT initiatives with business objectives through performance measurement",
+      "To ensure all IT projects are completed on time"
+    ],
+    "correctAnswer": "To align IT initiatives with business objectives through performance measurement"
+  },
+  {
+    "id": 43,
+    "question": "In the context of IT governance, what does COBIT primarily focus on?",
+    "options": [
+      "Programming techniques and software development",
+      "Providing a framework for IT management and governance",
+      "Protecting IT systems from cyber attacks",
+      "Outlining the best practices for IT service management"
+    ],
+    "correctAnswer": "Providing a framework for IT management and governance"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is a key aspect of IT compliance?",
+    "options": [
+      "Monitoring social media usage in the workplace",
+      "Ensuring IT practices adhere to environmental regulations",
+      "Conducting performance reviews for IT staff",
+      "Ensuring adherence to laws, regulations, and guidelines affecting IT systems and processes"
+    ],
+    "correctAnswer": "Ensuring adherence to laws, regulations, and guidelines affecting IT systems and processes"
+  },
+  {
+    "id": 45,
+    "question": "What role do information systems play in achieving competitive advantage according to Porter’s model?",
+    "options": [
+      "Reducing the workforce to lower operational costs",
+      "Providing information to make better strategic decisions",
+      "Focusing solely on automating existing processes",
+      "Creating new social media marketing strategies"
+    ],
+    "correctAnswer": "Providing information to make better strategic decisions"
+  },
+  {
+    "id": 46,
+    "question": "How does implementing an Enterprise Resource Planning (ERP) system benefit an organization?",
+    "options": [
+      "By allowing unlimited access to the internet",
+      "Through integrating various business processes and functions into a unified system",
+      "By focusing on individual department needs rather than the organization as a whole",
+      "Increasing the complexity of IT infrastructure"
+    ],
+    "correctAnswer": "Through integrating various business processes and functions into a unified system"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is not typically a goal of IT security management?",
+    "options": [
+      "Ensuring user satisfaction with IT systems",
+      "Protecting information assets from threats",
+      "Maintaining confidentiality, integrity, and availability of data",
+      "Complying with legal and regulatory requirements"
+    ],
+    "correctAnswer": "Ensuring user satisfaction with IT systems"
+  },
+  {
+    "id": 48,
+    "question": "What is the primary focus of disaster recovery planning in IT?",
+    "options": [
+      "Planning company picnics and team-building events",
+      "Ensuring the continuity of IT services in the event of a catastrophic failure",
+      "Reducing the company’s reliance on technology",
+      "Increasing the speed of software development"
+    ],
+    "correctAnswer": "Ensuring the continuity of IT services in the event of a catastrophic failure"
+  },
+  {
+    "id": 49,
+    "question": "In which phase of the IT project lifecycle is a project’s scope and objectives defined?",
+    "options": [
+      "Initiation",
+      "Planning",
+      "Execution",
+      "Closure"
+    ],
+    "correctAnswer": "Initiation"
+  },
+  {
+    "id": 50,
+    "question": "What is the primary goal of knowledge management systems in organizations?",
+    "options": [
+      "Monitoring employees’ online activities",
+      "Facilitating the creation, sharing, and application of knowledge to enhance organizational learning and performance",
+      "Reducing the need for employee training",
+      "Increasing the number of IT support tickets"
+    ],
+    "correctAnswer": "Facilitating the creation, sharing, and application of knowledge to enhance organizational learning and performance"
+  }
+]

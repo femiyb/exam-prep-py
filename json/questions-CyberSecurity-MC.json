@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary goal of information security?",
+    "options": [
+      "Increasing system performance",
+      "Protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction",
+      "Simplifying user access",
+      "Enhancing software usability"
+    ],
+    "correctAnswer": "Protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is an example of a symmetric encryption algorithm?",
+    "options": [
+      "RSA",
+      "ECC",
+      "AES",
+      "DH"
+    ],
+    "correctAnswer": "AES"
+  },
+  {
+    "id": 3,
+    "question": "What does the principle of 'least privilege' entail in cybersecurity?",
+    "options": [
+      "Users should be given as much privilege as possible",
+      "Users should only be given privileges that are essential for the execution of their duties",
+      "Privileges should be equally distributed among all users",
+      "Privileges are granted based on seniority"
+    ],
+    "correctAnswer": "Users should only be given privileges that are essential for the execution of their duties"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a common method to authenticate a user?",
+    "options": [
+      "Asking for their favorite color",
+      "Checking their physical strength",
+      "Password",
+      "Guessing their age"
+    ],
+    "correctAnswer": "Password"
+  },
+  {
+    "id": 5,
+    "question": "What does a digital signature provide?",
+    "options": [
+      "Decreased security",
+      "Integrity, authentication, and non-repudiation",
+      "An encrypted version of the document",
+      "Proof of the sender's physical signature"
+    ],
+    "correctAnswer": "Integrity, authentication, and non-repudiation"
+  },
+  {
+    "id": 6,
+    "question": "In public key infrastructure (PKI), what is a 'Certificate Authority' (CA)?",
+    "options": [
+      "A device that generates public and private keys",
+      "An authority that issues and manages security credentials and public keys for message encryption",
+      "A government body that regulates internet security",
+      "The main server in a network"
+    ],
+    "correctAnswer": "An authority that issues and manages security credentials and public keys for message encryption"
+  },
+  {
+    "id": 7,
+    "question": "What is 'phishing'?",
+    "options": [
+      "A legitimate way of verifying user identities",
+      "A technique used to safely encrypt data",
+      "A form of fraud to obtain sensitive information by posing as a trustworthy entity",
+      "A fishing technique used by pirates"
+    ],
+    "correctAnswer": "A form of fraud to obtain sensitive information by posing as a trustworthy entity"
+  },
+  {
+    "id": 8,
+    "question": "Which protocol provides encryption for web traffic?",
+    "options": [
+      "HTTP",
+      "SNMP",
+      "HTTPS",
+      "FTP"
+    ],
+    "correctAnswer": "HTTPS"
+  },
+  {
+    "id": 9,
+    "question": "What is the main function of a firewall?",
+    "options": [
+      "To increase internet speed",
+      "To filter incoming and outgoing network traffic based on an organization's previously established security policies",
+      "To count the number of visitors to a website",
+      "To serve web pages"
+    ],
+    "correctAnswer": "To filter incoming and outgoing network traffic based on an organization's previously established security policies"
+  },
+  {
+    "id": 10,
+    "question": "What is 'ransomware'?",
+    "options": [
+      "Software that manages ransom payments in cryptocurrencies",
+      "A type of malicious software designed to block access to a computer system until a sum of money is paid",
+      "A backup solution for important files",
+      "A new operating system"
+    ],
+    "correctAnswer": "A type of malicious software designed to block access to a computer system until a sum of money is paid"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following best describes 'two-factor authentication'?",
+    "options": [
+      "Using two passwords",
+      "Logging in from two devices",
+      "Using two different methods of authentication to enhance security",
+      "Two people sharing the same account"
+    ],
+    "correctAnswer": "Using two different methods of authentication to enhance security"
+  },
+  {
+    "id": 12,
+    "question": "What is a 'hash function'?",
+    "options": [
+      "A function that converts input into a fixed-size string of characters, which is typically a hash value",
+      "A mathematical function for generating public and private keys",
+      "A function to encrypt and decrypt data",
+      "A function that increases data size"
+    ],
+    "correctAnswer": "A function that converts input into a fixed-size string of characters, which is typically a hash value"
+  },
+  {
+    "id": 13,
+    "question": "In the context of cybersecurity, what does 'CIA' stand for?",
+    "options": [
+      "Central Intelligence Agency",
+      "Confidentiality, Integrity, and Availability",
+      "Computer Interface Architecture",
+      "Cryptography, Internet, and Authentication"
+    ],
+    "correctAnswer": "Confidentiality, Integrity, and Availability"
+  },
+  {
+    "id": 14,
+    "question": "Which attack involves overwhelming a system with traffic to cause a denial of service?",
+    "options": [
+      "Phishing attack",
+      "SQL Injection",
+      "Distributed Denial of Service (DDoS)",
+      "Cross-site scripting"
+    ],
+    "correctAnswer": "Distributed Denial of Service (DDoS)"
+  },
+  {
+    "id": 15,
+    "question": "What is 'encryption'?",
+    "options": [
+      "The process of converting plaintext into a secure format to prevent unauthorized access",
+      "The process of verifying user identity",
+      "A method to increase system speed",
+      "The act of breaking into a computer system"
+    ],
+    "correctAnswer": "The process of converting plaintext into a secure format to prevent unauthorized access"
+  },
+    {
+      "id": 16,
+      "question": "Which of the following is NOT a characteristic of a strong password?",
+      "options": [
+        "Contains personal information such as birthdate",
+        "Includes a mix of uppercase letters, lowercase letters, numbers, and symbols",
+        "Is longer than eight characters",
+        "Is unique and not reused across different accounts"
+      ],
+      "correctAnswer": "Contains personal information such as birthdate"
+    },
+    {
+      "id": 17,
+      "question": "What does 'SSL/TLS' provide?",
+      "options": [
+        "A way to make websites load faster",
+        "Encryption for data in transit between a web browser and web server",
+        "A firewall for network traffic",
+        "A new web design protocol"
+      ],
+      "correctAnswer": "Encryption for data in transit between a web browser and web server"
+    },
+    {
+      "id": 18,
+      "question": "What is the primary function of 'antivirus software'?",
+      "options": [
+        "To clean the computer screen",
+        "To monitor and remove malicious software",
+        "To increase internet download speed",
+        "To serve as a web browser"
+      ],
+      "correctAnswer": "To monitor and remove malicious software"
+    },
+    {
+      "id": 19,
+      "question": "What principle involves dividing a system into multiple zones of different security levels?",
+      "options": [
+        "Least privilege",
+        "Defense in depth",
+        "Segmentation",
+        "Risk management"
+      ],
+      "correctAnswer": "Segmentation"
+    },
+    {
+      "id": 20,
+      "question": "What is 'social engineering'?",
+      "options": [
+        "A field of engineering focusing on societal development",
+        "The manipulation of people into performing actions or divulging confidential information",
+        "A new programming language",
+        "The study of social interactions within an organization"
+      ],
+      "correctAnswer": "The manipulation of people into performing actions or divulging confidential information"
+    },
+    {
+      "id": 21,
+      "question": "Which type of cyber attack involves injecting malicious scripts into web pages viewed by users?",
+      "options": [
+        "DDoS Attack",
+        "Phishing",
+        "Cross-Site Scripting (XSS)",
+        "Man-in-the-Middle Attack"
+      ],
+      "correctAnswer": "Cross-Site Scripting (XSS)"
+    },
+    {
+      "id": 22,
+      "question": "Which algorithm is known for public key cryptography?",
+      "options": [
+        "SHA-256",
+        "RSA",
+        "AES",
+        "MD5"
+      ],
+      "correctAnswer": "RSA"
+    },
+    {
+      "id": 23,
+      "question": "What is the main purpose of 'access control'?",
+      "options": [
+        "To ensure users can access any resources without restrictions",
+        "To control the temperature in server rooms",
+        "To limit access to resources to authorized users",
+        "To monitor the physical access to buildings"
+      ],
+      "correctAnswer": "To limit access to resources to authorized users"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following best describes 'malware'?",
+      "options": [
+        "Legal software that enhances the security of a computer",
+        "Software designed to infiltrate or damage a computer system without the owner's consent",
+        "A type of software used for creating documents",
+        "Software that helps in managing emails"
+      ],
+      "correctAnswer": "Software designed to infiltrate or damage a computer system without the owner's consent"
+    },
+    {
+      "id": 25,
+      "question": "In network security, what is a 'honeypot'?",
+      "options": [
+        "A tool that attracts attackers by masquerading as a vulnerable system to detect or study attacks",
+        "A type of firewall",
+        "A secure method for transmitting data",
+        "A high-speed network protocol"
+      ],
+      "correctAnswer": "A tool that attracts attackers by masquerading as a vulnerable system to detect or study attacks"
+    },
+    {
+      "id": 26,
+      "question": "What is the goal of 'cryptanalysis'?",
+      "options": [
+        "To strengthen cryptographic systems",
+        "To design new cryptographic algorithms",
+        "To study and break cryptographic systems",
+        "To implement cryptographic systems in software"
+      ],
+      "correctAnswer": "To study and break cryptographic systems"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is NOT a typical component of an enterprise security plan?",
+      "options": [
+        "Regularly scheduled coffee breaks for IT staff",
+        "Incident response plan",
+        "Business continuity planning",
+        "User training and awareness programs"
+      ],
+      "correctAnswer": "Regularly scheduled coffee breaks for IT staff"
+    },
+    {
+      "id": 28,
+      "question": "What does 'BYOD' stand for in the context of information security?",
+      "options": [
+        "Bring Your Own Device",
+        "Buy Your Own Desk",
+        "Backup Your Own Data",
+        "Build Your Own Database"
+      ],
+      "correctAnswer": "Bring Your Own Device"
+    },
+    {
+      "id": 29,
+      "question": "What type of cyber threat involves exploiting vulnerabilities in software before they are patched?",
+      "options": [
+        "Zero-day exploit",
+        "Trojan horse",
+        "Worm",
+        "Virus"
+      ],
+      "correctAnswer": "Zero-day exploit"
+    },
+    {
+      "id": 30,
+      "question": "Which technology is used to create a secure and encrypted tunnel over a less secure network, such as the internet?",
+      "options": [
+        "VPN",
+        "SSL",
+        "WPA2",
+        "HTTPS"
+      ],
+      "correctAnswer": "VPN"
+    },
+    {
+      "id": 31,
+      "question": "What is 'key management' in the context of cryptography?",
+      "options": [
+        "The process of physically securing server room keys",
+        "Managing the keys of a keyboard",
+        "The handling, generation, exchange, storage, use, crypto-shredding, and replacement of cryptographic keys",
+        "Organizing keys in a database"
+      ],
+      "correctAnswer": "The handling, generation, exchange, storage, use, crypto-shredding, and replacement of cryptographic keys"
+    },
+    {
+      "id": 32,
+      "question": "What is 'steganography'?",
+      "options": [
+        "The study of insects in computer environments",
+        "The practice of concealing a message within another message or a physical object",
+        "A branch of cryptography focused on network security",
+        "A type of social engineering attack"
+      ],
+      "correctAnswer": "The practice of concealing a message within another message or a physical object"
+    },
+    {
+      "id": 33,
+      "question": "Which term describes a security analysis of a system from the perspective of a potential attacker?",
+      "options": [
+        "White box testing",
+        "Black box testing",
+        "Penetration testing",
+        "Stress testing"
+      ],
+      "correctAnswer": "Penetration testing"
+    },
+    {
+      "id": 34,
+      "question": "What is 'identity and access management' (IAM)?",
+      "options": [
+        "A framework for business processes that facilitates the management of electronic identities",
+        "A new internet access technology",
+        "A method for managing company finances",
+        "A database management system"
+      ],
+      "correctAnswer": "A framework for business processes that facilitates the management of electronic identities"
+    },
+    {
+      "id": 35,
+      "question": "What does 'data at rest' refer to in cybersecurity?",
+      "options": [
+        "Data actively being transferred over a network",
+        "Data that is stored and not currently in use or being accessed",
+        "Data deleted from the system",
+        "Data displayed on a monitor"
+      ],
+      "correctAnswer": "Data that is stored and not currently in use or being accessed"
+    },
+    {
+      "id": 36,
+      "question": "What is the primary purpose of 'intrusion detection systems' (IDS)?",
+      "options": [
+        "To detect and alert on unauthorized access or anomalies in network traffic",
+        "To increase the speed of the network",
+        "To filter spam from emails",
+        "To manage software installations on a network"
+      ],
+      "correctAnswer": "To detect and alert on unauthorized access or anomalies in network traffic"
+    },
+    {
+      "id": 37,
+      "question": "What is 'patch management'?",
+      "options": [
+        "The process of repairing system vulnerabilities",
+        "The process of managing updates for software applications and technologies",
+        "A method for sewing patches on network cables",
+        "The management of employee uniforms"
+      ],
+      "correctAnswer": "The process of managing updates for software applications and technologies"
+    },
+    {
+      "id": 38,
+      "question": "Which type of backup strategy involves copying all data that has changed since the last full backup?",
+      "options": [
+        "Differential backup",
+        "Incremental backup",
+        "Mirror backup",
+        "Snapshot backup"
+      ],
+      "correctAnswer": "Differential backup"
+    },
+    {
+      "id": 39,
+      "question": "What is the main advantage of using 'cloud-based security solutions'?",
+      "options": [
+        "Reduced need for physical storage",
+        "Decreased reliance on internet connectivity",
+        "Scalability and reduced management overhead",
+        "Enhanced personal control over security hardware"
+      ],
+      "correctAnswer": "Scalability and reduced management overhead"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following best describes the 'principle of non-repudiation' in cybersecurity?",
+      "options": [
+        "The inability to deny the authenticity of one's actions, particularly with respect to digital signatures and transmissions",
+        "The ability to deny actions to reduce liability",
+        "The principle that all actions on a network should be anonymous",
+        "The idea that users can repudiate data they have previously backed up"
+      ],
+      "correctAnswer": "The inability to deny the authenticity of one's actions, particularly with respect to digital signatures and transmissions"
+    }
+  ]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "Describe the Information Systems Strategy Triangle and its significance in aligning business, IT, and organizational strategies.",
+    "proposedAnswer": "The Information Systems Strategy Triangle highlights the alignment necessary between business strategy, IT strategy, and organizational strategy, ensuring that decisions in one area support objectives in the others for overall strategic coherence."
+  },
+  {
+    "id": 2,
+    "question": "Explain the concept of digital transformation and its impact on traditional business models.",
+    "proposedAnswer": "Digital transformation involves integrating digital technology into all areas of a business, fundamentally changing how it operates and delivers value to customers. It impacts traditional business models by necessitating adaptation to digital methods, often leading to improved efficiency and new value creation opportunities."
+  },
+  {
+    "id": 3,
+    "question": "Discuss the role of IT governance in managing risks and ensuring compliance within an IT organization.",
+    "proposedAnswer": "IT governance provides a framework for aligning IT strategy with business objectives, managing IT risks effectively, and ensuring compliance with laws and regulations. It involves establishing policies, processes, and structures to guide IT resource allocation and performance monitoring."
+  },
+  {
+    "id": 4,
+    "question": "Define IT strategy and explain how it supports business objectives in a competitive environment.",
+    "proposedAnswer": "IT strategy outlines how technology should be utilized to meet business goals, including the adoption of new technologies, IT infrastructure management, and application development priorities. It supports business objectives by enabling operational efficiencies, enhancing customer experiences, and fostering innovation for competitive advantage."
+  },
+  {
+    "id": 5,
+    "question": "Analyze the Southwest Airlines case to identify how IT strategy misalignment can lead to operational failures.",
+    "proposedAnswer": "The Southwest Airlines case illustrates that misalignment between IT strategy and business objectives, such as outdated scheduling systems not supporting operational needs, can result in significant disruptions, customer dissatisfaction, and financial losses, highlighting the critical need for strategic IT alignment."
+  },
+  {
+    "id": 6,
+    "question": "Describe the principles of the IT Infrastructure Library (ITIL) framework and its application in IT service management.",
+    "proposedAnswer": "The ITIL framework provides a set of best practices for IT service management focused on aligning IT services with business needs. Principles include service strategy, design, transition, operation, and continual service improvement, aimed at enhancing efficiency and service quality."
+  },
+  {
+    "id": 7,
+    "question": "Explain the concept of business process reengineering (BPR) and its relationship with IT strategy.",
+    "proposedAnswer": "BPR involves radically redesigning business processes to achieve dramatic improvements in productivity and efficiency. IT strategy plays a crucial role by providing the technological tools and systems necessary to enable and support these redesigned processes."
+  },
+  {
+    "id": 8,
+    "question": "Discuss the strategic importance of cloud computing in modern IT governance.",
+    "proposedAnswer": "Cloud computing offers scalable and flexible IT resources, enabling organizations to adjust their IT capabilities quickly in response to business needs. In modern IT governance, it supports strategic agility, cost-efficiency, and innovation."
+  },
+  {
+    "id": 9,
+    "question": "Analyze the role of big data and analytics in strategic decision-making processes.",
+    "proposedAnswer": "Big data and analytics empower organizations to make informed strategic decisions by providing insights into market trends, customer behaviors, and operational efficiency. This data-driven approach enhances the accuracy of strategic planning and competitive positioning."
+  },
+  {
+    "id": 10,
+    "question": "Evaluate the impact of cybersecurity threats on IT governance and the strategies to mitigate these risks.",
+    "proposedAnswer": "Cybersecurity threats pose significant risks to organizational data and IT infrastructure. Effective IT governance must include strategies for risk assessment, the implementation of security measures, and continuous monitoring to protect against and respond to cyber threats."
+  },
+  {
+    "id": 11,
+    "question": "Explain the significance of enterprise architecture in aligning IT projects with business strategy.",
+    "proposedAnswer": "Enterprise architecture outlines the structure and operation of an organization, providing a blueprint that ensures IT projects are aligned with business goals. It facilitates strategic planning, resource allocation, and risk management."
+  },
+  {
+    "id": 12,
+    "question": "Discuss the challenges and strategies of managing IT projects to align with organizational goals.",
+    "proposedAnswer": "Managing IT projects involves challenges such as aligning with strategic goals, managing resources, and ensuring stakeholder engagement. Strategies include clear goal setting, effective communication, stakeholder involvement, and agile project management methodologies."
+  },
+  {
+    "id": 13,
+    "question": "Describe the role of ethical considerations in IT governance and strategy.",
+    "proposedAnswer": "Ethical considerations in IT governance involve ensuring that IT practices and policies uphold principles of integrity, fairness, and accountability, addressing issues like privacy, data protection, and equitable access to technology."
+  },
+  {
+    "id": 14,
+    "question": "Analyze the importance of IT portfolio management in strategic IT governance.",
+    "proposedAnswer": "IT portfolio management involves overseeing all IT investments to ensure they align with business strategies and deliver value. It is crucial for optimizing resource allocation, managing risks, and achieving strategic objectives efficiently."
+  },
+  {
+    "id": 15,
+    "question": "Discuss the challenges of digital privacy and data protection in IT governance.",
+    "proposedAnswer": "Challenges include managing the complexities of legal compliance, protecting against data breaches, and ensuring transparency with stakeholders. Strategies involve implementing robust security measures, privacy by design principles, and ongoing monitoring."
+  },
+  {
+    "id": 16,
+    "question": "Explain the concept of agile methodology and its importance in IT project management.",
+    "proposedAnswer": "Agile methodology emphasizes iterative development, customer collaboration, and flexibility in response to change. It is important for managing IT projects by enabling faster delivery of value, improving product quality, and enhancing customer satisfaction."
+  },
+  {
+    "id": 17,
+    "question": "Discuss the role of IT in facilitating innovation and sustaining competitive advantage.",
+    "proposedAnswer": "IT plays a key role in innovation by enabling new business models, improving products and services, and enhancing operational efficiency. It supports competitive advantage by providing the tools for continuous improvement and market differentiation."
+  },
+  {
+    "id": 18,
+    "question": "Analyze the importance of IT portfolio management in strategic IT governance.",
+    "proposedAnswer": "IT portfolio management ensures that IT investments align with strategic business objectives, optimizing resource utilization, risk management, and value delivery. It involves selecting, managing, and monitoring IT projects and assets to achieve strategic goals."
+  },
+  {
+    "id": 19,
+    "question": "Discuss the challenges of digital privacy and data protection in IT governance.",
+    "proposedAnswer": "Digital privacy and data protection challenges include ensuring compliance with evolving regulations, protecting against breaches, and maintaining customer trust. Effective governance strategies involve robust security measures, privacy policies, and stakeholder communication."
+  },
+  {
+    "id": 20,
+    "question": "Describe the strategic use of IT in customer relationship management (CRM) to enhance customer satisfaction and loyalty.",
+    "proposedAnswer": "Strategic use of IT in CRM involves leveraging technology to gather insights on customer preferences and behaviors, personalize interactions, and streamline service delivery. This enhances customer satisfaction and loyalty by providing a seamless, responsive, and personalized experience."
+}
+]

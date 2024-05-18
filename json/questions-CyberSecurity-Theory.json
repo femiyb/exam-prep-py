@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "Define symmetric and asymmetric encryption and give an example of each.",
+    "proposedAnswer": "Symmetric encryption uses the same key for encryption and decryption (e.g., AES), while asymmetric encryption uses a pair of keys, public and private, where the public key encrypts and the private key decrypts (e.g., RSA)."
+  },
+  {
+    "id": 2,
+    "question": "Describe the principle of operation for the Caesar cipher and its historical significance in cryptography.",
+    "proposedAnswer": "The Caesar cipher shifts each letter in the plaintext by a set number down the alphabet for encryption. Historically, it was used by Julius Caesar for secure communication, marking an early use of substitution ciphers in cryptography."
+  },
+  {
+    "id": 3,
+    "question": "Explain what PKI is and its components, including digital certificates and certificate authorities.",
+    "proposedAnswer": "Public Key Infrastructure (PKI) is a framework for secure digital communication. Key components include digital certificates, which authenticate the ownership of a public key, and certificate authorities (CAs), which issue and manage these certificates."
+  },
+  {
+    "id": 4,
+    "question": "What is a hash function in cybersecurity, and how does it contribute to data integrity?",
+    "proposedAnswer": "A hash function is an algorithm that converts an input (or 'message') into a fixed-size string of bytes. It ensures data integrity by allowing verification that the content has not been altered, as any change would produce a different hash value."
+  },
+  {
+    "id": 5,
+    "question": "Explain how digital signatures work and their importance in ensuring the authenticity and integrity of electronic documents.",
+    "proposedAnswer": "Digital signatures use asymmetric cryptography to validate the authenticity and integrity of a document. The sender encrypts the document's hash with their private key. The recipient decrypts it with the sender's public key, ensuring it hasn't been altered and confirming the sender's identity."
+  },
+  {
+    "id": 6,
+    "question": "Describe the three types of trust models mentioned: Direct Trust, Hierarchical Trust, and Web of Trust.",
+    "proposedAnswer": "Direct Trust is based on individual assurance, Hierarchical Trust uses a centralized authority to validate identities, and Web of Trust builds a network of trust through individual validations without central authority."
+  },
+  {
+    "id": 7,
+    "question": "Distinguish between authentication and authorization in the context of database security.",
+    "proposedAnswer": "Authentication verifies a user's identity, typically through credentials, while authorization determines the resources and operations the authenticated user is permitted to access and perform."
+  },
+  {
+    "id": 8,
+    "question": "Discuss the concept of 'strong cryptography' as defined by Bruce Schneier in the context of protecting against major government intrusions.",
+    "proposedAnswer": "Strong cryptography refers to encryption that is sufficiently secure to prevent unauthorized access by major governments, relying on advanced algorithms and sufficiently long key lengths to resist decryption attempts."
+  },
+  {
+    "id": 9,
+    "question": "What are the challenges and solutions associated with key management in conventional encryption?",
+    "proposedAnswer": "Key management challenges include securely distributing and storing keys, ensuring keys remain confidential, and updating keys. Solutions involve secure key exchange protocols, hardware security modules, and key lifecycle management practices."
+  },
+  {
+    "id": 10,
+    "question": "Explain the problem solved by public key cryptography, introduced by Whitfield Diffie and Martin Hellman.",
+    "proposedAnswer": "Public key cryptography solves the key distribution problem, allowing secure communication without the need for a shared secret key by using a pair of keys for encryption (public key) and decryption (private key)."
+  },
+  {
+    "id": 11,
+    "question": "Summarize how PGP works and its hybrid approach to encryption.",
+    "proposedAnswer": "PGP uses a hybrid approach that combines symmetric and asymmetric encryption. It encrypts the message with a symmetric session key, which is then encrypted with the recipient's public key. This method combines the efficiency of symmetric encryption with the security of asymmetric encryption."
+  },
+  {
+    "id": 12,
+    "question": "What is a certificate revocation list (CRL), and why is it important in cybersecurity?",
+    "proposedAnswer": "A Certificate Revocation List (CRL) is a list of digital certificates that have been revoked before their expiration dates and are no longer trusted. It's crucial for maintaining the integrity of a secure communication infrastructure."
+  },
+  {
+    "id": 13,
+    "question": "Describe the purpose of a message digest and the significance of SHA-1 in ensuring data integrity.",
+    "proposedAnswer": "A message digest is a unique digital fingerprint of data, ensuring integrity by detecting alterations. SHA-1 is a widely used hashing algorithm that produces a 160-bit digest, providing a high level of security against tampering."
+  },
+  {
+    "id": 14,
+    "question": "Discuss the evolution from DES to Triple-DES, including the reasons for the transition.",
+    "proposedAnswer": "The transition from DES to Triple-DES was primarily due to DES's insufficient key length, making it vulnerable to brute-force attacks. Triple-DES uses three rounds of DES encryption with different keys, significantly enhancing security."
+  },
+  {
+    "id": 15,
+    "question": "List and explain at least three types of vulnerabilities mentioned, such as public key tampering and physical security breaches.",
+    "proposedAnswer": "Public key tampering involves altering a public key to intercept encrypted communications. Physical security breaches include unauthorized access to secure locations. Viruses and Trojan horses can compromise system security by executing malicious actions without the user's knowledge."
+  },
+  {
+    "id": 16,
+    "question": "Outline Phil Zimmermann’s rationale behind creating PGP and its relevance to privacy and security.",
+    "proposedAnswer": "Phil Zimmermann created PGP to ensure private and secure electronic communication in the digital age, advocating for the right to privacy and the importance of strong encryption to protect against unauthorized access and surveillance."
+  },
+  {
+    "id": 17,
+    "question": "Discuss the principles of database security and the importance of protecting key fields and access to surrogate information.",
+    "proposedAnswer": "Database security principles include ensuring data confidentiality, integrity, and availability. Protecting key fields and surrogate information is vital to prevent unauthorized access and ensure that sensitive data remains secure."
+  },
+  {
+    "id": 18,
+    "question": "Explain what traffic analysis is and how it poses a threat to encrypted communications.",
+    "proposedAnswer": "Traffic analysis involves examining communication patterns to infer sensitive information without decrypting the content. It poses a threat by potentially revealing the parties involved in communications and their frequency, even when the content is encrypted."
+  },
+  {
+      "id": 19,
+      "question": "Describe the Feistel structure and its significance in the design of block ciphers.",
+      "proposedAnswer": "The Feistel structure is a design model used in block cipher algorithms, enabling the construction of encryption and decryption processes from the same components. Its significance lies in its flexibility and the ease of implementing secure encryption algorithms."
+  },
+  {
+      "id": 20,
+      "question": "Define cryptanalysis and distinguish between classical cryptanalysis and modern techniques such as differential and linear cryptanalysis.",
+      "proposedAnswer": "Cryptanalysis is the study of analyzing and breaking cryptographic systems. Classical cryptanalysis uses techniques like frequency analysis, while modern methods like differential and linear cryptanalysis exploit mathematical properties of the encryption algorithm to find weaknesses."
+  }
+]

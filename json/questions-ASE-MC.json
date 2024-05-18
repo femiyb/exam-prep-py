@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "question": "What defines software engineering?",
+    "options": [
+      "The process of testing software",
+      "The maintenance of computer hardware",
+      "The application of engineering principles to software development",
+      "The design of computer hardware"
+    ],
+    "correctAnswer": "The application of engineering principles to software development"
+  },
+  {
+    "id": 2,
+    "question": "What is the primary goal of the SDLC (Software Development Life Cycle)?",
+    "options": [
+      "To provide a framework for software documentation",
+      "To manage software projects efficiently",
+      "To ensure software is developed within a specified timeline",
+      "To guide the development of software from inception to retirement"
+    ],
+    "correctAnswer": "To guide the development of software from inception to retirement"
+  },
+  {
+    "id": 3,
+    "question": "Which SDLC model emphasizes iterative development?",
+    "options": [
+      "Waterfall Model",
+      "Spiral Model",
+      "Agile Model",
+      "V-Model"
+    ],
+    "correctAnswer": "Agile Model"
+  },
+  {
+    "id": 4,
+    "question": "In software engineering, what is modularity?",
+    "options": [
+      "A database management approach",
+      "A programming language feature",
+      "The degree to which a system’s components can be separated and recombined",
+      "A software testing strategy"
+    ],
+    "correctAnswer": "The degree to which a system’s components can be separated and recombined"
+  },
+  {
+    "id": 5,
+    "question": "What is cohesion in the context of software design?",
+    "options": [
+      "The level of dependency between software modules",
+      "The readability of code within a module",
+      "The degree to which the tasks performed by a single module are related",
+      "The efficiency of the software in execution"
+    ],
+    "correctAnswer": "The degree to which the tasks performed by a single module are related"
+  },
+  {
+    "id": 6,
+    "question": "Which one is a characteristic of good software?",
+    "options": [
+      "Inflexibility",
+      "High complexity",
+      "Scalability",
+      "Unreliability"
+    ],
+    "correctAnswer": "Scalability"
+  },
+  {
+    "id": 7,
+    "question": "What does a Data Flow Diagram (DFD) NOT typically show?",
+    "options": [
+      "The flow of data within a system",
+      "The logic of decision-making",
+      "The sources and destinations of data",
+      "The interaction between actors and the system"
+    ],
+    "correctAnswer": "The logic of decision-making"
+  },
+  {
+    "id": 8,
+    "question": "Which UML diagram is specifically designed to represent the flow of processes?",
+    "options": [
+      "Sequence Diagram",
+      "Class Diagram",
+      "Activity Diagram",
+      "Use Case Diagram"
+    ],
+    "correctAnswer": "Activity Diagram"
+  },
+  {
+    "id": 9,
+    "question": "What is the main advantage of the Spiral Model?",
+    "options": [
+      "Its simplicity and ease of use",
+      "It emphasizes early coding activities",
+      "Its ability to handle risk through iterative assessment",
+      "Its rigid structure suitable for small projects"
+    ],
+    "correctAnswer": "Its ability to handle risk through iterative assessment"
+  },
+  {
+    "id": 10,
+    "question": "What does encapsulation in object-oriented design help achieve?",
+    "options": [
+      "Code complexity",
+      "Reduced cohesion",
+      "Data hiding",
+      "Increased coupling"
+    ],
+    "correctAnswer": "Data hiding"
+  },
+    {
+      "id": 11,
+      "question": "What is the primary purpose of a use case diagram?",
+      "options": [
+        "To model the functional requirements of a system",
+        "To describe the static structure of a system",
+        "To outline the software’s detailed coding algorithms",
+        "To manage software project timelines"
+      ],
+      "correctAnswer": "To model the functional requirements of a system"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following best describes agile software development?",
+      "options": [
+        "A plan-driven development model",
+        "A model that emphasizes documentation",
+        "An iterative and incremental approach",
+        "A model focusing on early design activities"
+      ],
+      "correctAnswer": "An iterative and incremental approach"
+    },
+    {
+      "id": 13,
+      "question": "What role does a software requirement specification (SRS) document play in software development?",
+      "options": [
+        "It outlines the project’s budget and resource allocation",
+        "It serves as a guide for the software design and development process",
+        "It is used primarily for marketing the software to potential buyers",
+        "It specifies the hardware on which the software will run"
+      ],
+      "correctAnswer": "It serves as a guide for the software design and development process"
+    },
+    {
+      "id": 14,
+      "question": "In context diagrams, external entities are represented by:",
+      "options": [
+        "Arrows",
+        "Squares",
+        "Circles",
+        "Rectangles"
+      ],
+      "correctAnswer": "Rectangles"
+    },
+    {
+      "id": 15,
+      "question": "Which is NOT a characteristic of the Waterfall Model?",
+      "options": [
+        "Sequential phases",
+        "Flexibility to go back to the previous phases",
+        "Emphasis on documentation",
+        "Each phase has specific deliverables"
+      ],
+      "correctAnswer": "Flexibility to go back to the previous phases"
+    },
+    {
+      "id": 16,
+      "question": "What is an attribute in a class diagram?",
+      "options": [
+        "A function that operates on the data within a class",
+        "A description of the operations performed by the class",
+        "The data contained within a class",
+        "The relationship between different classes"
+      ],
+      "correctAnswer": "The data contained within a class"
+    },
+    {
+      "id": 17,
+      "question": "What does the term ‘software metrics’ refer to?",
+      "options": [
+        "The cost of software development",
+        "Standards for software user interfaces",
+        "Measurements used to quantify the attributes of software",
+        "The number of lines of code in a software project"
+      ],
+      "correctAnswer": "Measurements used to quantify the attributes of software"
+    },
+    {
+      "id": 18,
+      "question": "What is the significance of ‘refactoring’ in software development?",
+      "options": [
+        "Changing the software’s functionality according to customer demand",
+        "Rewriting the entire software from scratch",
+        "Improving the software’s structure without changing its functionality",
+        "Enhancing the software’s graphical user interface"
+      ],
+      "correctAnswer": "Improving the software’s structure without changing its functionality"
+    },
+    {
+      "id": 19,
+      "question": "Which model is NOT suitable for accommodating change?",
+      "options": [
+        "Agile Model",
+        "Spiral Model",
+        "Waterfall Model",
+        "Iterative Model"
+      ],
+      "correctAnswer": "Waterfall Model"
+    },
+    {
+      "id": 20,
+      "question": "In software project management, what is a ‘milestone’?",
+      "options": [
+        "A detailed plan for the software’s implementation",
+        "A significant event or achievement in the project timeline",
+        "The final delivery of the software product",
+        "A technology used in software development"
+      ],
+      "correctAnswer": "A significant event or achievement in the project timeline"
+    },
+  {
+    "id": 21,
+    "question": "What is the main focus of structural testing?",
+    "options": [
+      "User experience",
+      "Software functions",
+      "Code structure",
+      "Software requirements"
+    ],
+    "correctAnswer": "Code structure"
+  },
+  {
+    "id": 22,
+    "question": "What does 'software process improvement' primarily aim to achieve?",
+    "options": [
+      "Increase in software development cost",
+      "Reduction in time to market",
+      "Improvement in software quality and development efficiency",
+      "Decrease in software functionality"
+    ],
+    "correctAnswer": "Improvement in software quality and development efficiency"
+  },
+  {
+    "id": 23,
+    "question": "Why is version control important in software engineering?",
+    "options": [
+      "It helps in tracking and managing changes to software code",
+      "It assists in the design of software interfaces",
+      "It controls the version of software tools used",
+      "It manages the software’s selling version"
+    ],
+    "correctAnswer": "It helps in tracking and managing changes to software code"
+  },
+  {
+    "id": 24,
+    "question": "Which principle does Clean Code NOT directly advocate for?",
+    "options": [
+      "Readability",
+      "Reusability",
+      "Minimalism in documentation",
+      "Self-explanatory code"
+    ],
+    "correctAnswer": "Minimalism in documentation"
+  },
+  {
+    "id": 25,
+    "question": "What distinguishes a dynamic model from a static model in software design?",
+    "options": [
+      "Dynamic models describe the software’s architecture, static models do not",
+      "Dynamic models describe how the software behaves during execution",
+      "Static models are used for database design, dynamic models are not",
+      "Static models focus on the user interface, dynamic models focus on data processing"
+    ],
+    "correctAnswer": "Dynamic models describe how the software behaves during execution"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is NOT a function of management in software projects?",
+    "options": [
+      "Coding and debugging",
+      "Planning and scheduling",
+      "Resource allocation",
+      "Monitoring and controlling"
+    ],
+    "correctAnswer": "Coding and debugging"
+  },
+  {
+    "id": 27,
+    "question": "What does the term ‘software prototype’ refer to?",
+    "options": [
+      "The final version of the software",
+      "A preliminary version of the software",
+      "The software’s documentation",
+      "The software’s coding standards"
+    ],
+    "correctAnswer": "A preliminary version of the software"
+  },
+  {
+    "id": 28,
+    "question": "Which is NOT a type of maintenance in software engineering?",
+    "options": [
+      "Predictive maintenance",
+      "Corrective maintenance",
+      "Adaptive maintenance",
+      "Perfective maintenance"
+    ],
+    "correctAnswer": "Predictive maintenance"
+  },
+  {
+    "id": 29,
+    "question": "What is the role of a debugger in software development?",
+    "options": [
+      "To enhance software features",
+      "To find and fix defects in the software",
+      "To compile the source code",
+      "To design software interfaces"
+    ],
+    "correctAnswer": "To find and fix defects in the software"
+  },
+  {
+    "id": 30,
+    "question": "What is a software design pattern?",
+    "options": [
+      "A repeatable solution to a commonly occurring problem in software design",
+      "A graphical representation of the user interface",
+      "A pattern used for testing the software",
+      "A template for software documentation"
+    ],
+    "correctAnswer": "A repeatable solution to a commonly occurring problem in software design"
+  },
+  {
+    "id": 31,
+    "question": "Why is user documentation important for software products?",
+    "options": [
+      "It serves as a legal agreement between the user and the software company",
+      "It provides step-by-step instructions on how to use the software",
+      "It outlines the software development process",
+      "It details the software’s code structure"
+    ],
+    "correctAnswer": "It provides step-by-step instructions on how to use the software"
+  },
+  {
+    "id": 32,
+    "question": "In which document are the software’s operational requirements detailed?",
+    "options": [
+      "Software Design Document (SDD)",
+      "Software Requirement Specification (SRS)",
+      "User Manual",
+      "Test Plan"
+    ],
+    "correctAnswer": "Software Requirement Specification (SRS)"
+  },
+  {
+    "id": 33,
+    "question": "What is the aim of software configuration management?",
+    "options": [
+      "To manage the software’s graphical user interface designs",
+      "To oversee the changes in software development",
+      "To configure the software according to hardware settings",
+      "To manage the software’s performance metrics"
+    ],
+    "correctAnswer": "To oversee the changes in software development"
+  },
+  {
+    "id": 34,
+    "question": "Which aspect of software is evaluated by static analysis tools?",
+    "options": [
+      "Software’s runtime performance",
+      "Software’s compliance with coding standards",
+      "User experience of the software",
+      "Software’s dynamic behaviors"
+    ],
+    "correctAnswer": "Software’s compliance with coding standards"
+  },
+  {
+    "id": 35,
+    "question": "What is the primary benefit of continuous integration in software development?",
+    "options": [
+      "Reducing software development costs",
+      "Increasing the time to market",
+      "Enhancing software security",
+      "Identifying and solving integration problems early"
+    ],
+    "correctAnswer": "Identifying and solving integration problems early"
+  },
+  {
+    "id": 36,
+    "question": "Which technique is commonly used for estimating software development effort?",
+    "options": [
+      "Code reviews",
+      "Function Point Analysis",
+      "User surveys",
+      "Prototyping"
+    ],
+    "correctAnswer": "Function Point Analysis"
+  },
+  {
+    "id": 37,
+    "question": "What is the objective of a software walkthrough?",
+    "options": [
+      "To evaluate the software’s operational capability",
+      "To identify defects in software artifacts",
+      "To demonstrate the software to potential customers",
+      "To deploy the software into the production environment"
+    ],
+    "correctAnswer": "To identify defects in software artifacts"
+  },
+  {
+    "id": 38,
+    "question": "What principle is the foundation of the Software Craftsmanship movement?",
+    "options": [
+      "Maximizing software profit",
+      "Prioritizing tools over individuals",
+      "Treating software development as a craft",
+      "Following a strict set of design patterns"
+    ],
+    "correctAnswer": "Treating software development as a craft"
+  },
+  {
+    "id": 39,
+    "question": "In context with software design, what is 'Separation of Concerns'?",
+    "options": [
+      "A method for software testing",
+      "A principle that divides a computer program into distinct sections",
+      "A type of software maintenance",
+      "A configuration management technique"
+    ],
+    "correctAnswer": "A principle that divides a computer program into distinct sections"
+  },
+  {
+    "id": 40,
+    "question": "What does the 'Liskov Substitution Principle' (LSP) in object-oriented design state?",
+    "options": [
+      "Child classes should be substitutable for their parent classes",
+      "Functions that use pointers to base classes must be able to use objects of derived classes",
+      "Software components should be open for extension but closed for modification",
+      "Dependencies within the system should conform to a hierarchy"
+    ],
+    "correctAnswer": "Child classes should be substitutable for their parent classes"
+  }
+]  

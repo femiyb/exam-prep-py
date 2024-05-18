@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "question": "Define software engineering and explain the difference between software and a software product.",
+    "proposedAnswer": "Software engineering is defined as an engineering branch associated with the development of software products using well-defined scientific principles, methods, and procedures. The difference lies in software being a collection of executable programming code with associated libraries and documentation, while a software product is specifically designed to meet users' requirements."
+  },
+  {
+    "id": 2,
+    "question": "Discuss the importance of software engineering in managing the complexity of large software projects.",
+    "proposedAnswer": "Software engineering plays a crucial role in managing complexity by employing systematic, disciplined, and quantifiable approaches towards development, operation, and maintenance of software, thereby ensuring quality, reliability, and scalability of large software projects."
+  },
+  {
+    "id": 3,
+    "question": "Explain the characteristics of good software, focusing on operational, transitional, and maintenance aspects.",
+    "proposedAnswer": "Good software is characterized by operational efficiency, including usability, functionality, and security; transitional attributes like portability and adaptability to different environments; and maintenance qualities such as modularity, maintainability, and scalability."
+  },
+  {
+    "id": 4,
+    "question": "Compare and contrast the Classical Waterfall Model with the Iterative Waterfall Model, highlighting their main differences and applications.",
+    "proposedAnswer": "The Classical Waterfall Model follows a linear and sequential approach to software development, whereas the Iterative Waterfall Model introduces iteration by incorporating feedback paths for revising and refining previous stages, making it more flexible and applicable to projects where requirements may evolve."
+  },
+  {
+    "id": 5,
+    "question": "Describe the Prototyping Model and discuss when it is most effectively used in the software development process.",
+    "proposedAnswer": "The Prototyping Model involves creating a simplified version of the desired software, which is refined through multiple iterations based on user feedback. It is most effective when the software requirements are not fully understood at the project's outset."
+  },
+  {
+    "id": 6,
+    "question": "Explain the concept of the Spiral Model and how it integrates risk management into the software development lifecycle.",
+    "proposedAnswer": "The Spiral Model combines elements of both iterative and waterfall models with a focus on risk assessment. It allows for iterative refinement at each stage of development while also emphasizing the identification and mitigation of risks at early stages."
+  },
+  {
+    "id": 7,
+    "question": "Describe the process and goals of requirements analysis and specification in software engineering.",
+    "proposedAnswer": "The process involves gathering and analyzing user requirements to create a detailed software requirements specification (SRS) document. The goal is to provide a clear, comprehensive description of the functional and non-functional requirements of the software to be developed."
+  },
+  {
+    "id": 8,
+    "question": "How do functional requirements differ from nonfunctional requirements in a Software Requirements Specification (SRS) document?",
+    "proposedAnswer": "Functional requirements describe the specific behavior or functions of the software, while nonfunctional requirements address the software's performance, usability, reliability, and other quality attributes."
+  },
+  {
+    "id": 9,
+    "question": "Discuss the significance of Data Flow Diagrams (DFDs) in software design and their components.",
+    "proposedAnswer": "DFDs are crucial in software design for visualizing the flow of data through the system, identifying the system's input and output, and facilitating the understanding of the system's functionality. The main components include processes, data flows, data stores, and external entities."
+  },
+  {
+    "id": 10,
+    "question": "Explain the concept of modularization in software design and its benefits.",
+    "proposedAnswer": "Modularization involves dividing a software system into smaller, manageable modules. Benefits include improved maintainability, reusability, and scalability, as well as facilitating parallel development."
+  },
+  {
+    "id": 11,
+    "question": "Define cohesion and coupling in the context of software design, and explain why they are important metrics.",
+    "proposedAnswer": "Cohesion refers to the degree to which the elements within a module belong together, while coupling describes how closely connected different modules are. High cohesion and low coupling are desirable for modular, maintainable, and flexible software design."
+  },
+  {
+    "id": 12,
+    "question": "Describe the Object-Oriented Design process and its advantages over traditional structured design methods.",
+    "proposedAnswer": "Object-Oriented Design (OOD) focuses on designing software systems using objects and classes. It offers advantages such as encapsulation, inheritance, and polymorphism, which facilitate more natural modeling of real-world problems and enhance code reusability and maintainability."
+  },
+  {
+    "id": 13,
+    "question": "Explain the difference between top-down and bottom-up design approaches in software engineering.",
+    "proposedAnswer": "The top-down approach starts with the most general system components and progressively refines them into more detailed components. In contrast, the bottom-up approach begins with detailed components, which are gradually combined into more general system components."
+  },
+  {
+    "id": 14,
+    "question": "Describe the purpose of a Data Dictionary in the context of software development and its components.",
+    "proposedAnswer": "A Data Dictionary is a centralized repository of information about data, such as meaning, relationships to other data, origin, usage, and format. It ensures consistency and clarity in the use and interpretation of data elements."
+  },
+  {
+    "id": 15,
+    "question": "Explain the concept of a Decision Tree and its application in decision-making processes within software engineering.",
+    "proposedAnswer": "A Decision Tree is a graphical representation that uses branching methods to illustrate every possible outcome of a decision. It is used in software engineering for planning and decision-making processes, especially in complex systems with multiple choices and outcomes."
+  },
+  {
+    "id": 16,
+    "question": "Discuss the importance of software design verification and the methods used to ensure design accuracy and quality.",
+    "proposedAnswer": "Design verification ensures that the software design meets all specified requirements and is both accurate and of high quality. Methods include reviews, inspections, and automated tools that check for design consistency and completeness."
+  },
+  {
+    "id": 17,
+    "question": "Compare and contrast function-oriented design with object-oriented design in software engineering.",
+    "proposedAnswer": "Function-oriented design focuses on the functions performed by the software, whereas object-oriented design focuses on the objects that the software manipulates. Object-oriented design offers advantages in terms of reusability, scalability, and maintainability."
+  },
+  {
+    "id": 18,
+    "question": "Explain the role and significance of software analysis and design tools in the software development lifecycle.",
+    "proposedAnswer": "Software analysis and design tools assist in the visualization, specification, and documentation of software requirements and design, facilitating a clear understanding and communication among stakeholders, and ensuring a systematic approach to software development."
+  },
+  {
+    "id": 19,
+    "question":
+
+ "Describe the concept of a context diagram and its role in understanding the system's interaction with external entities.",
+    "proposedAnswer": "A context diagram is a high-level view of a system that shows the system as a whole and its interactions with external entities. It helps stakeholders understand the system's boundaries and external interfaces without detailing internal processes."
+  },
+  {
+    "id": 20,
+    "question": "Discuss the importance of balancing a Data Flow Diagram and the implications of failing to do so in software design.",
+    "proposedAnswer": "Balancing a Data Flow Diagram ensures that the input and output data flows of a process are consistent across different levels of abstraction. Failure to balance can lead to inaccuracies in understanding the data flow and system functionality."
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary purpose of conducting a literature review in research?",
+    "options": ["To fill time before starting the actual research", "To gather sources for the bibliography", "To identify gaps and build a theoretical framework for the study", "To find a topic that interests the researcher the most"],
+    "correctAnswer": "To identify gaps and build a theoretical framework for the study"
+  },
+  {
+    "id": 2,
+    "question": "Which research approach is best suited for exploring the depth and complexity of individual experiences?",
+    "options": ["Quantitative", "Qualitative", "Mixed methods", "Descriptive"],
+    "correctAnswer": "Qualitative"
+  },
+  {
+    "id": 3,
+    "question": "In a research study, the term 'population' refers to:",
+    "options": ["A group of people living in a specific geographic area", "The entire group of individuals or instances about whom the research is concerned", "The sample selected for the study", "The researchers conducting the study"],
+    "correctAnswer": "The entire group of individuals or instances about whom the research is concerned"
+  },
+  {
+    "id": 4,
+    "question": "A hypothesis in a research study is:",
+    "options": ["A question the study aims to answer", "A detailed plan of how the research will be conducted", "A statement predicting the relationship between two or more variables", "A summary of the study's findings"],
+    "correctAnswer": "A statement predicting the relationship between two or more variables"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is a characteristic of quantitative research?",
+    "options": ["Focus on subjective interpretation", "Use of open-ended questions", "Statistical analysis of data", "Exploration of complex relationships"],
+    "correctAnswer": "Statistical analysis of data"
+  },
+  {
+    "id": 6,
+    "question": "The validity of research refers to:",
+    "options": ["The extent to which the research accurately reflects the concept it is intended to measure", "The repeatability of the research under the same conditions", "The number of participants in the study", "The duration of the study"],
+    "correctAnswer": "The extent to which the research accurately reflects the concept it is intended to measure"
+  },
+  {
+    "id": 7,
+    "question": "Which sampling method gives each member of the population an equal chance of being selected?",
+    "options": ["Convenience sampling", "Quota sampling", "Snowball sampling", "Random sampling"],
+    "correctAnswer": "Random sampling"
+  },
+  {
+    "id": 8,
+    "question": "In IT research, what does the term 'secondary data' refer to?",
+    "options": ["Data collected through user surveys", "Data obtained from existing literature, databases, or previous studies", "Data collected directly from experiments", "Data created for the purpose of the study"],
+    "correctAnswer": "Data obtained from existing literature, databases, or previous studies"
+  },
+  {
+    "id": 9,
+    "question": "Which research design allows for the establishment of cause-effect relationships?",
+    "options": ["Descriptive", "Experimental", "Exploratory", "Qualitative"],
+    "correctAnswer": "Experimental"
+  },
+  {
+    "id": 10,
+    "question": "Ethical considerations in research typically include all of the following EXCEPT:",
+    "options": ["Ensuring anonymity and confidentiality of participants", "Obtaining informed consent from participants", "Sharing the raw data publicly to ensure transparency", "Avoiding harm to participants"],
+    "correctAnswer": "Sharing the raw data publicly to ensure transparency"
+  },
+  {
+    "id": 11,
+    "question": "Which data collection method involves the researcher actively engaging with participants?",
+    "options": ["Surveys", "Archival research", "Participant observation", "Secondary data analysis"],
+    "correctAnswer": "Participant observation"
+  },
+  {
+    "id": 12,
+    "question": "In qualitative research, thematic analysis is used to:",
+    "options": ["Determine the statistical significance of results", "Identify and analyze patterns or themes in qualitative data", "Calculate the mean and standard deviation of numerical data", "Predict future trends based on past data"],
+    "correctAnswer": "Identify and analyze patterns or themes in qualitative data"
+  },
+  {
+    "id": 13,
+    "question": "What is the primary purpose of using a Likert scale in questionnaires?",
+    "options": ["To measure respondents' attitudes or opinions on a linear scale", "To determine the median response to a question", "To allow for open-ended responses", "To assign random values to responses"],
+    "correctAnswer": "To measure respondents' attitudes or opinions on a linear scale"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following best describes the process of coding in qualitative research?",
+    "options": ["Translating responses from one language to another", "Encrypting sensitive information for data protection", "Organizing data into categories and themes for analysis", "Converting qualitative data into numerical form"],
+    "correctAnswer": "Organizing data into categories and themes for analysis"
+  },
+  {
+    "id": 15,
+    "question": "A Gantt chart is most useful for:",
+    "options": ["Outlining the steps and timeline of a research project", "Analyzing the relationship between two variables", "Visualizing the distribution of responses to a survey question", "Comparing the characteristics of two different samples"],
+    "correctAnswer": "Outlining the steps and timeline of a research project"
+  },
+  {
+    "id": 16,
+    "question": "Content analysis in qualitative research involves:",
+    "options": ["Counting the number of times specific themes appear in textual data", "Measuring the physical properties of content", "Assessing the impact of content on the audience", "Determining the accuracy of the content"],
+    "correctAnswer": "Counting the number of times specific themes appear in textual data"
+  },
+  {
+    "id": 17,
+    "question": "Which type of validity is concerned with the extent to which research findings can be generalized to other settings or groups?",
+    "options": ["Construct validity", "Internal validity", "External validity", "Reliability"],
+    "correctAnswer": "External validity"
+  },
+  {
+    "id": 18,
+    "question": "An online survey to collect data from IT professionals on cybersecurity practices is an example of:",
+    "options": ["Primary data collection", "Qualitative research", "Secondary data analysis", "Experimental research"],
+    "correctAnswer": "Primary data collection"
+  },
+  {
+    "id": 19,
+    "question": "In the context of data analysis, SPSS is:",
+    "options": ["A programming language used for creating databases", "A software package used for statistical analysis", "A method for qualitative data coding", "A tool for developing online surveys"],
+    "correctAnswer": "A software package used for statistical analysis"
+  },
+  {
+    "id": 20,
+    "question": "The term 'big data' in IT research refers to:",
+    "options": ["Data that has a significant impact on the study's outcomes", "Large and complex data sets that require advanced methods to analyze", "The most important data in a dataset", "Data collected from a large number of participants"],
+    "correctAnswer": "Large and complex data sets that require advanced methods to analyze"
+  },
+    {
+      "id": 21,
+      "question": "Plagiarism in research is:",
+      "options": ["Using published work without referencing the source", "Conducting research without a hypothesis", "Sharing research findings with participants", "Using multiple data collection methods"],
+      "correctAnswer": "Using published work without referencing the source"
+    },
+    {
+      "id": 22,
+      "question": "Which section of a research report typically outlines the study's objectives, hypotheses, and research questions?",
+      "options": ["Literature review", "Methodology", "Introduction", "Results"],
+      "correctAnswer": "Introduction"
+    },
+    {
+      "id": 23,
+      "question": "Informed consent in research involves:",
+      "options": ["Informing participants about the benefits of the study", "Ensuring participants are aware of the study's purpose and their rights", "Collecting as much information as possible from participants", "Informing participants about the data analysis methods used"],
+      "correctAnswer": "Ensuring participants are aware of the study's purpose and their rights"
+    },
+    {
+      "id": 24,
+      "question": "The section of a research paper that describes the tools and procedures used to collect and analyze data is called:",
+      "options": ["The abstract", "The introduction", "The methodology", "The discussion"],
+      "correctAnswer": "The methodology"
+    },
+    {
+      "id": 25,
+      "question": "Peer review in the publication process is important because:",
+      "options": ["It ensures that the research is relevant to current trends", "It helps to validate the research findings and enhance the study's credibility", "It guarantees that the research will be widely read", "It increases the chance of funding for future research"],
+      "correctAnswer": "It helps to validate the research findings and enhance the study's credibility"
+    },
+    {
+      "id": 26,
+      "question": "Anonymity in research ensures that:",
+      "options": ["Participants' identities are not disclosed within the research report", "The research questions remain confidential", "The data collection methods are not revealed", "The sources of literature are kept secret"],
+      "correctAnswer": "Participants' identities are not disclosed within the research report"
+    },
+    {
+      "id": 27,
+      "question": "A case study in research methodology is:",
+      "options": ["A hypothetical scenario used to illustrate a concept", "An in-depth analysis of a single event, situation, or individual", "A study that includes cases from multiple disciplines", "A comparative analysis of two different research methods"],
+      "correctAnswer": "An in-depth analysis of a single event, situation, or individual"
+    },
+    {
+      "id": 28,
+      "question": "Triangulation in research refers to:",
+      "options": ["The process of using multiple theories to interpret findings", "The use of three data collection methods", "The use of multiple perspectives to interpret data", "The geographic location of the study"],
+      "correctAnswer": "The use of multiple perspectives to interpret data"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following best describes longitudinal research?",
+      "options": ["Research conducted in a long duration", "Research studying phenomena over a period of time", "Research focused on long-distance communication technology", "Research involving long-term data storage"],
+      "correctAnswer": "Research studying phenomena over a period of time"
+    },
+    {
+      "id": 30,
+      "question": "The abstract of a research paper typically includes:",
+      "options": ["A detailed critique of the literature", "A comprehensive methodology section", "A summary of the study's main findings and conclusions", "An in-depth analysis of the data collected"],
+      "correctAnswer": "A summary of the study's main findings and conclusions"
+    },
+    {
+      "id": 21,
+      "question": "Plagiarism in research is:",
+      "options": ["Using published work without referencing the source", "Conducting research without a hypothesis", "Sharing research findings with participants", "Using multiple data collection methods"],
+      "correctAnswer": "Using published work without referencing the source"
+    },
+    {
+      "id": 22,
+      "question": "Which section of a research report typically outlines the study's objectives, hypotheses, and research questions?",
+      "options": ["Literature review", "Methodology", "Introduction", "Results"],
+      "correctAnswer": "Introduction"
+    },
+    {
+      "id": 23,
+      "question": "Informed consent in research involves:",
+      "options": ["Informing participants about the benefits of the study", "Ensuring participants are aware of the study's purpose and their rights", "Collecting as much information as possible from participants", "Informing participants about the data analysis methods used"],
+      "correctAnswer": "Ensuring participants are aware of the study's purpose and their rights"
+    },
+    {
+      "id": 24,
+      "question": "The section of a research paper that describes the tools and procedures used to collect and analyze data is called:",
+      "options": ["The abstract", "The introduction", "The methodology", "The discussion"],
+      "correctAnswer": "The methodology"
+    },
+    {
+      "id": 25,
+      "question": "Peer review in the publication process is important because:",
+      "options": ["It ensures that the research is relevant to current trends", "It helps to validate the research findings and enhance the study's credibility", "It guarantees that the research will be widely read", "It increases the chance of funding for future research"],
+      "correctAnswer": "It helps to validate the research findings and enhance the study's credibility"
+    },
+    {
+      "id": 26,
+      "question": "Anonymity in research ensures that:",
+      "options": ["Participants' identities are not disclosed within the research report", "The research questions remain confidential", "The data collection methods are not revealed", "The sources of literature are kept secret"],
+      "correctAnswer": "Participants' identities are not disclosed within the research report"
+    },
+    {
+      "id": 27,
+      "question": "A case study in research methodology is:",
+      "options": ["A hypothetical scenario used to illustrate a concept", "An in-depth analysis of a single event, situation, or individual", "A study that includes cases from multiple disciplines", "A comparative analysis of two different research methods"],
+      "correctAnswer": "An in-depth analysis of a single event, situation, or individual"
+    },
+    {
+      "id": 28,
+      "question": "Triangulation in research refers to:",
+      "options": ["The process of using multiple theories to interpret findings", "The use of three data collection methods", "The use of multiple perspectives to interpret data", "The geographic location of the study"],
+      "correctAnswer": "The use of multiple perspectives to interpret data"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following best describes longitudinal research?",
+      "options": ["Research conducted in a long duration", "Research studying phenomena over a period of time", "Research focused on long-distance communication technology", "Research involving long-term data storage"],
+      "correctAnswer": "Research studying phenomena over a period of time"
+    },
+    {
+      "id": 30,
+      "question": "The abstract of a research paper typically includes:",
+      "options": ["A detailed critique of the literature", "A comprehensive methodology section", "A summary of the study's main findings and conclusions", "An in-depth analysis of the data collected"],
+      "correctAnswer": "A summary of the study's main findings and conclusions"
+    },
+    {
+      "id": 31,
+      "question": "Mixed methods research combines elements of:",
+      "options": ["Only quantitative research methods", "Both quantitative and qualitative research methods", "Only qualitative research methods", "Neither quantitative nor qualitative research methods"],
+      "correctAnswer": "Both quantitative and qualitative research methods"
+    },
+    {
+      "id": 32,
+      "question": "Action research is best described as:",
+      "options": ["Research aimed at providing solutions to an immediate problem", "Research that involves taking specific actions to influence outcomes", "Research conducted without a predetermined hypothesis", "Research that is action-packed and fast-paced"],
+      "correctAnswer": "Research aimed at providing solutions to an immediate problem"
+    },
+    {
+      "id": 33,
+      "question": "In the context of IT research, a prototype is:",
+      "options": ["A preliminary version of a device or application used for testing", "A type of statistical analysis", "A methodology for data collection", "A theoretical framework for software development"],
+      "correctAnswer": "A preliminary version of a device or application used for testing"
+    },
+    {
+      "id": 34,
+      "question": "Grounded theory in qualitative research is:",
+      "options": ["A theory that is well-established and widely accepted", "A methodology for developing theory that is grounded in data systematically gathered and analyzed", "A statistical theory used for grounding quantitative data", "A practical theory for solving IT problems"],
+      "correctAnswer": "A methodology for developing theory that is grounded in data systematically gathered and analyzed"
+    },
+    {
+      "id": 35,
+      "question": "The term 'digital divide' in IT research refers to:",
+      "options": ["The gap between digital data and analog data", "The division between different digital marketing strategies", "The divide between theoretical and applied IT research", "The gap between those who have access to digital technology and those who do not"],
+      "correctAnswer": "The gap between those who have access to digital technology and those who do not"
+    },
+    {
+      "id": 36,
+      "question": "Phenomenology in research methodology focuses on:",
+      "options": ["The study of phenomena as they naturally occur", "Understanding human experiences from the participant's perspective", "The physical properties of technological devices", "The phenomenon of data loss in digital storage"],
+      "correctAnswer": "Understanding human experiences from the participant's perspective"
+    },
+    {
+      "id": 37,
+      "question": "Which type of analysis would be most appropriate for a study examining tweets about a specific IT product to gauge public opinion?",
+      "options": ["Content analysis", "Regression analysis", "Factor analysis", "Network analysis"],
+      "correctAnswer": "Content analysis"
+    },
+    {
+      "id": 38,
+      "question": "The Delphi method is a research technique used to:",
+      "options": ["Analyze data from Delphi-based software applications", "Gather expert opinions to achieve a consensus on a specific issue", "Predict future trends in IT development", "Deliberate on the ethical implications of IT research"],
+      "correctAnswer": "Gather expert opinions to achieve a consensus on a specific issue"
+    },
+    {
+      "id": 39,
+      "question": "In IT research, usability testing is primarily concerned with:",
+      "options": ["The security features of an application", "How easy and efficient it is for users to accomplish tasks using an IT product or system", "The compatibility of software with different operating systems", "The speed of data processing by an application"],
+      "correctAnswer": "How easy and efficient it is for users to accomplish tasks using an IT product or system"
+    },
+    {
+      "id": 40,
+      "question": "A 'scoping review' in research methodology is undertaken to:",
+      "options": ["Map the key concepts underpinning a research area and the main sources and types of evidence available", "Scope out potential research funding opportunities", "Determine the scope of patent protection for IT innovations", "Identify the physical scope of IT infrastructure in an organization"],
+      "correctAnswer": "Map the key concepts underpinning a research area and the main sources and types of evidence available"
+    },
+    {
+        "id": 41,
+        "question": "What does 'reliability' in research methodology refer to?",
+        "options": ["The consistency of measurement across different occasions", "The truthfulness of the measurement", "The generalizability of the research findings", "The ethical considerations in data collection"],
+        "correctAnswer": "The consistency of measurement across different occasions"
+      },
+      {
+        "id": 42,
+        "question": "Which of the following research methods is primarily used to gain insight into people's attitudes, behaviors, and experiences?",
+        "options": ["Case Study", "Survey", "Experiment", "Content Analysis"],
+        "correctAnswer": "Survey"
+      },
+      {
+        "id": 43,
+        "question": "In the context of software development research, what is 'agile methodology' primarily focused on?",
+        "options": ["Sequential design process", "Rigorous testing at every stage", "Flexibility and continuous improvement", "Comprehensive documentation"],
+        "correctAnswer": "Flexibility and continuous improvement"
+      },
+      {
+        "id": 44,
+        "question": "Which of the following best describes 'data encryption' in the context of IT research?",
+        "options": ["A method for speeding up data processing", "A technique for converting data into a secure code to prevent unauthorized access", "A tool for data analysis in software development", "A data collection technique for surveys"],
+        "correctAnswer": "A technique for converting data into a secure code to prevent unauthorized access"
+      },
+      {
+        "id": 45,
+        "question": "What role does 'cloud computing' play in data storage research?",
+        "options": ["Serves as a physical storage location for all research data", "Provides a platform for decentralized access and storage of data", "Is used exclusively for the storage of sensitive data", "Eliminates the need for data storage in research"],
+        "correctAnswer": "Provides a platform for decentralized access and storage of data"
+      },
+      {
+        "id": 46,
+        "question": "In research, 'artificial intelligence' (AI) can be used for:",
+        "options": ["Only data collection", "Only data analysis", "Both data collection and analysis", "Neither data collection nor analysis"],
+        "correctAnswer": "Both data collection and analysis"
+      },
+      {
+        "id": 47,
+        "question": "What is the main purpose of 'version control systems' in software development research?",
+        "options": ["To track and manage changes to software code", "To enhance the graphical user interface of applications", "To increase the processing speed of software", "To manage the financial aspects of software development projects"],
+        "correctAnswer": "To track and manage changes to software code"
+      },
+      {
+        "id": 48,
+        "question": "In the context of IT research, 'open source software' is defined as software that:",
+        "options": ["Is available for free to all users", "Has its source code available for modification and enhancement by anyone", "Can only be used for educational purposes", "Is proprietary and cannot be freely distributed"],
+        "correctAnswer": "Has its source code available for modification and enhancement by anyone"
+      },
+      {
+        "id": 49,
+        "question": "What does the term 'virtual reality' (VR) refer to in IT research?",
+        "options": ["The use of computer technology to create a simulated environment", "A method of data encryption", "A technique for improving internet speed", "A tool for online surveys"],
+        "correctAnswer": "The use of computer technology to create a simulated environment"
+      },
+      {
+        "id": 50,
+        "question": "Blockchain technology in IT research is primarily associated with:",
+        "options": ["Improving the graphical user interface of applications", "Developing algorithms for data analysis", "Creating secure and decentralized digital ledgers", "Enhancing the physical components of computing devices"],
+        "correctAnswer": "Creating secure and decentralized digital ledgers"
+      }
+    ]
