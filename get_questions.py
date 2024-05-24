@@ -4,7 +4,7 @@ from flask_cors import CORS
 import json
 
 app = Flask(__name__)
-CORS(app)  # This line enables CORS globally for all domains, fine for development but consider adjusting for production.
+CORS(app, resources={r"/*": {"origins": "https://eloquent-tulumba-cc13e7.netlify.app"}})
 
 questions_bp = Blueprint('questions', __name__)
 

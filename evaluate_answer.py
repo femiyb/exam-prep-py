@@ -1,15 +1,17 @@
 import os
 import json
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, Blueprint
 from flask_cors import CORS
 import re
 import google.generativeai as genai
 from dotenv import load_dotenv
 
+evaluate_answer_bp = Blueprint('evaluate_answer_bp', __name__)
+
 load_dotenv()
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(app, resources={r"/*": {"origins": "https://eloquent-tulumba-cc13e7.netlify.app"}})
 
 # Gemini API Configuration
 gemini_api_key = os.environ.get("GEMINI_API_KEY")
