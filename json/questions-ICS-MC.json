@@ -438,5 +438,171 @@
         "The idea that users can repudiate data they have previously backed up"
       ],
       "correctAnswer": "The inability to deny the authenticity of one's actions, particularly with respect to digital signatures and transmissions"
-    }
-  ]
+    },
+      {
+        "id": 41,
+        "question": "What is the primary goal of information security?",
+        "options": [
+          "Increasing system performance",
+          "Protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction",
+          "Simplifying user access",
+          "Enhancing software usability"
+        ],
+        "correctAnswer": "Protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction"
+      },
+      {
+        "id": 42,
+        "question": "Which of the following is an example of a symmetric encryption algorithm?",
+        "options": [
+          "RSA",
+          "ECC",
+          "AES",
+          "DH"
+        ],
+        "correctAnswer": "AES"
+      },
+      {
+        "id": 43,
+        "question": "Which protocol is commonly used to verify the validity of a digital certificate?",
+        "options": [
+          "HTTPS",
+          "SSL",
+          "CRL",
+          "OCSP"
+        ],
+        "correctAnswer": "OCSP"
+      },
+      {
+        "id": 44,
+        "question": "What does the term 'CIA Triad' in information security stand for?",
+        "options": [
+          "Confidentiality, Integrity, Availability",
+          "Confidentiality, Information, Authentication",
+          "Confidentiality, Integrity, Authorization",
+          "Confidentiality, Information, Availability"
+        ],
+        "correctAnswer": "Confidentiality, Integrity, Availability"
+      },
+      {
+        "id": 45,
+        "question": "Which of the following is a characteristic of asymmetric encryption?",
+        "options": [
+          "Uses the same key for both encryption and decryption",
+          "Uses a pair of keys: a public key and a private key",
+          "Is typically faster than symmetric encryption",
+          "Is used primarily for encrypting large amounts of data"
+        ],
+        "correctAnswer": "Uses a pair of keys: a public key and a private key"
+      },
+      {
+        "id": 46,
+        "question": "What is the purpose of using hash functions in information security?",
+        "options": [
+          "To encrypt data",
+          "To ensure data integrity",
+          "To generate public keys",
+          "To speed up data transmission"
+        ],
+        "correctAnswer": "To ensure data integrity"
+      },
+      {
+        "id": 47,
+        "question": "In the context of database security, what does SQL Injection refer to?",
+        "options": [
+          "A method of encrypting database records",
+          "A technique used to gain unauthorized access to a database",
+          "A process for optimizing database queries",
+          "A type of database backup strategy"
+        ],
+        "correctAnswer": "A technique used to gain unauthorized access to a database"
+      },
+      {
+        "id": 48,
+        "question": "Which of the following is a method to prevent unauthorized physical access to information systems?",
+        "options": [
+          "Encryption",
+          "Firewall",
+          "Mantraps",
+          "Antivirus software"
+        ],
+        "correctAnswer": "Mantraps"
+      },
+      {
+        "id": 49,
+        "question": "What is the role of a Certificate Authority (CA) in a Public Key Infrastructure (PKI)?",
+        "options": [
+          "To encrypt messages",
+          "To sign digital certificates",
+          "To generate private keys",
+          "To monitor network traffic"
+        ],
+        "correctAnswer": "To sign digital certificates"
+      },
+      {
+        "id": 50,
+        "question": "Which of the following best describes 'social engineering' in the context of cybersecurity?",
+        "options": [
+          "A software attack that targets system vulnerabilities",
+          "A technique used to trick individuals into divulging confidential information",
+          "An encryption method to secure communications",
+          "A type of malware designed to steal data"
+        ],
+        "correctAnswer": "A technique used to trick individuals into divulging confidential information"
+      },
+      {
+        "id": 51,
+        "question": "What is the purpose of a Digital Signature?",
+        "options": [
+          "To encrypt data",
+          "To verify the identity of the sender",
+          "To compress data",
+          "To generate encryption keys"
+        ],
+        "correctAnswer": "To verify the identity of the sender"
+      },
+      {
+        "id": 52,
+        "question": "Which type of encryption uses a single key for both encryption and decryption?",
+        "options": [
+          "Symmetric encryption",
+          "Asymmetric encryption",
+          "Public key encryption",
+          "Digital signature"
+        ],
+        "correctAnswer": "Symmetric encryption"
+      },
+      {
+        "id": 53,
+        "question": "Which of the following best describes the function of a firewall?",
+        "options": [
+          "To detect and remove viruses",
+          "To monitor and control incoming and outgoing network traffic",
+          "To encrypt data transmitted over the internet",
+          "To back up data automatically"
+        ],
+        "correctAnswer": "To monitor and control incoming and outgoing network traffic"
+      },
+      {
+        "id": 54,
+        "question": "What does 'nonrepudiation' ensure in the context of information security?",
+        "options": [
+          "That data is encrypted",
+          "That data is available to authorized users",
+          "That a sender cannot deny sending a message",
+          "That a system is protected against malware"
+        ],
+        "correctAnswer": "That a sender cannot deny sending a message"
+      },
+      {
+        "id": 55,
+        "question": "Which protocol is used for secure communications over a computer network and is widely used on the internet?",
+        "options": [
+          "HTTP",
+          "FTP",
+          "SMTP",
+          "HTTPS"
+        ],
+        "correctAnswer": "HTTPS"
+      }
+    ]
+    

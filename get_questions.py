@@ -4,7 +4,7 @@ from flask_cors import CORS
 import json
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "https://eloquent-tulumba-cc13e7.netlify.app"}})
+CORS(app, resources={r"/*": {"origins": "https://richfield-exam-practice.netlify.app"}})
 
 questions_bp = Blueprint('questions', __name__)
 

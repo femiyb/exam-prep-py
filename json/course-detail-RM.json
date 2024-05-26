@@ -1,0 +1,157 @@
+{
+    "RM": {
+        "Course Title": "Research Methodology 800",
+      "Course Overview": {
+        "Course Title": "Research Methodology 800",
+        "Course Objectives": [
+                "Demonstrate specialist knowledge to engage with and critique main research methodologies used in IT research.",
+                "Critically analyze and assess information systems and management research.",
+                "Evaluate strengths and weaknesses of commonly used research methodologies in information systems.",
+                "Understand complexities and uncertainties of planning research projects involving IT-related phenomena."
+            ],
+            "Prerequisites": [
+                "Bachelor’s Degree in Information Technology or related field.",
+                "Equivalent NQF Level 7 qualification.",
+                "Recognition of Prior Learning (RPL) compliance."
+            ],
+            "Credits": 15
+        },
+        "Curriculum Outline": {
+            "Core Topics": [
+                "Introduction to Research",
+                "The Research Process",
+                "Formulating a Research Problem",
+                "Literature Review",
+                "Research Design",
+                "Data Collection Methods"
+            ],
+            "Seminar/Workshop Details": [
+                "Seminar on Qualitative Methods",
+                "Workshop on Data Analysis Tools"
+            ]
+        },
+        "Detailed Syllabus": [
+            {
+                "Week": 1,
+                "Topic": "Introduction to Research",
+                "Reading": "Kumar (2019) - Chapter 1",
+                "Assignment": "Define research and its importance in IT."
+            },
+            {
+                "Week": 2,
+                "Topic": "The Research Process",
+                "Reading": "Kumar (2019) - Chapter 2",
+                "Assignment": "Describe the characteristics of a good research process."
+            },
+            {
+                "Week": 3,
+                "Topic": "Formulating a Research Problem",
+                "Reading": "Kumar (2019) - Chapter 3",
+                "Assignment": "Identify and formulate a research problem in IT."
+            },
+            {
+                "Week": 4,
+                "Topic": "Literature Review",
+                "Reading": "Creswell & Creswell (2018) - Chapter 4",
+                "Assignment": "Conduct a literature review on a chosen IT topic."
+            },
+            {
+                "Week": 5,
+                "Topic": "Research Design",
+                "Reading": "Kumar (2019) - Chapter 4",
+                "Assignment": "Design a research framework for a given problem."
+            },
+            {
+                "Week": 6,
+                "Topic": "Quantitative Research Methods",
+                "Reading": "Creswell & Creswell (2018) - Chapter 5",
+                "Assignment": "Develop a survey instrument."
+            },
+            {
+                "Week": 7,
+                "Topic": "Qualitative Research Methods",
+                "Reading": "Kumar (2019) - Chapter 5",
+                "Assignment": "Design a qualitative interview guide."
+            },
+            {
+                "Week": 8,
+                "Topic": "Data Collection Methods",
+                "Reading": "Kumar (2019) - Chapter 6",
+                "Activity": "Fieldwork exercise",
+                "Assignment": "Collect and analyze data using qualitative methods."
+            }
+        ],
+        "Study Schedule": {
+            "Time Management Tips": [
+                "Create a study timetable.",
+                "Prioritize readings and assignments."
+            ],
+            "Important Deadlines": [
+                "Week 3: Research problem submission",
+                "Week 5: Literature review submission",
+                "Week 7: Research design proposal",
+                "Week 8: Data collection report"
+            ]
+        },
+        "Assessment Methods": {
+            "Grading Policy": {
+                "Assignments": 40,
+                "Exam": 60
+            },
+            "Assignment Guidelines": {
+                "Format": "APA format, 12-point font, double-spaced",
+                "Submission": "Via Moodle by midnight of the due date",
+                "Evaluation": "Based on clarity, depth, and critical analysis"
+            },
+            "Exam Preparation": [
+                "Review lecture notes and readings.",
+                "Practice past exam papers."
+            ]
+        },
+        "Resources": {
+            "Prescribed Textbooks": [
+                {
+                    "Title": "Research Methodology: A Step-by-Step Guide for Beginners",
+                    "Author": "Ranjit Kumar",
+                    "Publisher": "SAGE Publications",
+                    "Publication Year": 2019,
+                    "ISBN": "9781526449900"
+                }
+            ],
+            "Recommended Reading": [
+                {
+                    "Title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",
+                    "Authors": "John W. Creswell, J. David Creswell",
+                    "Publisher": "SAGE Publications",
+                    "Publication Year": 2018,
+                    "ISBN": "9781506386706"
+                }
+            ],
+            "Online Platforms": [
+                "Moodle",
+                "Google Scholar"
+            ],
+            "Software Tools": [
+                "NVivo",
+                "SPSS"
+            ],
+            "Study Groups": [
+                "Weekly online discussion groups",
+                "Peer review sessions"
+            ]
+        },
+        "Professional Development": {
+            "Internships": "Guidance on finding research internships.",
+            "Career Services": "Access to career counseling and job placement services.",
+            "Networking": "Opportunities to attend academic conferences and workshops."
+        },
+        "Well-being and Support": {
+            "Student Support Services": "Academic counseling and tutoring available for struggling students.",
+            "Work-Life Balance": "Tips on maintaining a healthy work-life balance while managing course load."
+          },
+        "Feedback and Improvement": {
+            "Continuous Improvement": "Regular updates based on student feedback.",
+            "Revision History": "Documented updates and revisions available online."
+        }
+    }
+}

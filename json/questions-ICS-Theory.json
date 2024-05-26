@@ -95,8 +95,69 @@
       "proposedAnswer": "The Feistel structure is a design model used in block cipher algorithms, enabling the construction of encryption and decryption processes from the same components. Its significance lies in its flexibility and the ease of implementing secure encryption algorithms."
   },
   {
-      "id": 20,
+      "id": 20, 
       "question": "Define cryptanalysis and distinguish between classical cryptanalysis and modern techniques such as differential and linear cryptanalysis.",
       "proposedAnswer": "Cryptanalysis is the study of analyzing and breaking cryptographic systems. Classical cryptanalysis uses techniques like frequency analysis, while modern methods like differential and linear cryptanalysis exploit mathematical properties of the encryption algorithm to find weaknesses."
-  }
-]
+  },
+    {
+      "id": 21,
+      "question": "Define symmetric and asymmetric encryption and give an example of each.",
+      "proposedAnswer": "Symmetric encryption uses the same key for encryption and decryption (e.g., AES), while asymmetric encryption uses a pair of keys, public and private, where the public key encrypts and the private key decrypts (e.g., RSA)."
+    },
+    {
+      "id": 22,
+      "question": "Describe the principle of operation for the Caesar cipher and its historical significance in cryptography.",
+      "proposedAnswer": "The Caesar cipher shifts each letter in the plaintext by a set number down the alphabet for encryption. Historically, it was used by Julius Caesar for secure communication, marking an early use of substitution ciphers in cryptography."
+    },
+    {
+      "id": 23,
+      "question": "Explain what PKI is and its components, including digital certificates and certificate authorities.",
+      "proposedAnswer": "Public Key Infrastructure (PKI) is a framework for secure digital communication. Key components include digital certificates, which authenticate the ownership of a public key, and certificate authorities (CAs), which issue and manage these certificates."
+    },
+    {
+      "id": 24,
+      "question": "What is the CIA Triad in information security and why is it important?",
+      "proposedAnswer": "The CIA Triad stands for Confidentiality, Integrity, and Availability. It is important because it represents the core principles of information security, ensuring that information is protected from unauthorized access, remains accurate and reliable, and is accessible to authorized users when needed."
+    },
+    {
+      "id": 25,
+      "question": "Discuss the role and importance of digital signatures in cybersecurity.",
+      "proposedAnswer": "Digital signatures play a critical role in cybersecurity by providing a way to verify the authenticity and integrity of digital messages and documents. They use cryptographic techniques to ensure that the signer is verified and that the content has not been altered, supporting nonrepudiation."
+    },
+    {
+      "id": 26,
+      "question": "What are the main differences between symmetric and asymmetric encryption, and when is each type typically used?",
+      "proposedAnswer": "Symmetric encryption uses the same key for both encryption and decryption, making it fast and efficient for encrypting large amounts of data. Asymmetric encryption uses a public and private key pair, offering enhanced security for key exchange and digital signatures. Symmetric encryption is typically used for bulk data encryption, while asymmetric encryption is used for secure key exchange and authentication."
+    },
+    {
+      "id": 27,
+      "question": "Explain the concept of a trust model in the context of PKI. Provide examples of different types of trust models.",
+      "proposedAnswer": "A trust model defines how parties in a network trust each other's identities. In PKI, common trust models include the hierarchical trust model, where a central root authority issues certificates; the web of trust model, where users create their own certificates and trust is established through mutual verification; and the direct trust model, where trust is established through direct exchange and verification of certificates."
+    },
+    {
+      "id": 28,
+      "question": "Describe the process and importance of certificate revocation in PKI.",
+      "proposedAnswer": "Certificate revocation is the process of invalidating a digital certificate before its expiration date. This is important to ensure that compromised or no longer valid certificates cannot be used maliciously. Revocation is typically managed through Certificate Revocation Lists (CRLs) or the Online Certificate Status Protocol (OCSP), which allow users and systems to verify the current status of a certificate."
+    },
+    {
+      "id": 29,
+      "question": "What are the primary threats to database security and how can they be mitigated?",
+      "proposedAnswer": "Primary threats to database security include SQL injection attacks, unauthorized access, and data breaches. These can be mitigated through methods such as input validation and prepared statements to prevent SQL injection, robust access control mechanisms to ensure only authorized users can access data, and encryption to protect data at rest and in transit."
+    },
+    {
+      "id": 30,
+      "question": "Explain the concepts of authentication and authorization and their significance in information security.",
+      "proposedAnswer": "Authentication is the process of verifying the identity of a user or system, typically through credentials such as passwords, biometrics, or tokens. Authorization determines what an authenticated user is allowed to do, often managed through role-based or attribute-based access control. Both are critical for ensuring that only authorized users can access and perform actions on information systems."
+    },
+    {
+      "id": 31,
+      "question": "How does the Online Certificate Status Protocol (OCSP) enhance security in PKI compared to traditional Certificate Revocation Lists (CRLs)?",
+      "proposedAnswer": "OCSP enhances security by providing real-time verification of a certificate's revocation status, unlike CRLs, which are periodically updated lists. OCSP allows clients to query the status of a certificate directly from the issuing CA, ensuring that the most current information is used to determine a certificate's validity, thus improving the reliability of the revocation process."
+    },
+    {
+      "id": 32,
+      "question": "What are the key differences between a web of trust and a hierarchical trust model?",
+      "proposedAnswer": "In a web of trust, individuals mutually verify each other's keys, creating a decentralized network of trust relationships. In contrast, a hierarchical trust model relies on a central root authority and intermediate authorities to issue and manage certificates, establishing a structured and centralized trust hierarchy. The web of trust is more flexible but less structured, while the hierarchical model provides a clear and organized trust framework."
+    }
+  ]
+  

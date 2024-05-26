@@ -1,0 +1,157 @@
+{
+    "ITSG": {
+      "Course Title": "Information Technology Strategy and Governance 800",
+      "Course Overview": {
+        "Course Title": "Advanced Software Engineering 800",
+        "Course Objectives": [
+          "Understand the principles and practices of IT governance and strategic alignment.",
+          "Develop skills to manage IT risks and ensure compliance with regulatory requirements.",
+          "Learn to design IT strategies that support organizational goals and improve business performance.",
+          "Enhance decision-making capabilities concerning IT investments and project management."
+        ],
+        "Prerequisites": [
+          "Bachelor’s Degree in Information Technology, Information Systems, or related field",
+          "Understanding of basic IT operations and management principles",
+          "Experience in IT or related fields is recommended but not required"
+        ],
+        "Credits": 15
+      },
+      "Curriculum Outline": {
+        "Core Topics": [
+          "Principles of IT Governance",
+          "Strategic Alignment of IT and Business",
+          "Risk Management and Compliance",
+          "IT Performance Measurement",
+          "Organizational Impact of IT",
+          "Leadership in IT Governance"
+        ],
+        "Seminar/Workshop Details": [
+          "Workshop on Case Studies in IT Governance",
+          "Seminar on Current Trends in IT Strategy and Compliance"
+        ]
+      },
+      "Detailed Syllabus": [
+        {
+          "Week": 1,
+          "Topic": "Introduction to IT Governance",
+          "Reading": "Chapter 1: IT Governance Overview from 'Information Technology Strategy and Governance 800'",
+          "Assignment": "Essay on the importance of IT Governance in Modern Enterprises"
+        },
+        {
+          "Week": 2,
+          "Topic": "Business and IT Alignment",
+          "Reading": "Chapter 2: Aligning IT and Business Strategies",
+          "Assignment": "Analysis of a Business Case Study on Alignment Challenges"
+        },
+        {
+          "Week": 3,
+          "Topic": "Risk Management Frameworks",
+          "Reading": "Chapter 3: Risk Management in IT",
+          "Assignment": "Prepare a Risk Assessment Report for a given scenario"
+        },
+        {
+          "Week": 4,
+          "Topic": "Regulatory Requirements and Compliance",
+          "Reading": "Chapter 4: Compliance in Information Technology",
+          "Assignment": "Discussion on GDPR and its impact on IT Strategy"
+        },
+        {
+          "Week": 5,
+          "Topic": "Measuring IT Performance",
+          "Reading": "Chapter 5: Performance Metrics in IT Governance",
+          "Assignment": "Develop a set of Performance Metrics for an IT department"
+        },
+        {
+          "Week": 6,
+          "Topic": "Strategic Management of IT Resources",
+          "Reading": "Chapter 6: Strategic IT Resource Management",
+          "Assignment": "Case Study Analysis on Resource Allocation"
+        },
+        {
+          "Week": 7,
+          "Topic": "Leadership and Change Management in IT",
+          "Reading": "Chapter 7: Leadership in IT Governance",
+          "Assignment": "Essay on Leadership Styles and Their Impact on IT Governance"
+        },
+        {
+          "Week": 8,
+          "Topic": "Emerging Technologies and IT Governance",
+          "Activity": "Group Discussion on the Role of AI in IT Governance",
+          "Assignment": "Research Paper on Emerging Technologies"
+        }
+      ],
+      "Study Schedule": {
+        "Time Management Tips": [
+          "Allocate specific hours each week for reading and assignment preparation.",
+          "Begin assignments early to manage unforeseen complications."
+        ],
+        "Important Deadlines": [
+          "Assignment 1 Submission - Week 2",
+          "Mid-term Exam - Week 4",
+          "Assignment 2 Submission - Week 6",
+          "Final Exam - Week 8"
+        ]
+      },
+      "Assessment Methods": {
+        "Grading Policy": {
+          "Assignments": 40,
+          "Exam": 60
+        },
+        "Assignment Guidelines": {
+          "Format": "All assignments must follow the APA formatting guidelines",
+          "Submission": "Assignments must be submitted electronically through the course management system",
+          "Evaluation": "Assignments will be evaluated based on clarity, depth of analysis, correctness, and adherence to format"
+        },
+        "Exam Preparation": [
+          "Review lecture notes and reading materials thoroughly.",
+          "Participate in study groups to discuss and clarify course concepts."
+        ]
+      },
+      "Resources": {
+        "Prescribed Textbooks": [
+          {
+            "Title": "Information Technology Strategy and Governance 800",
+            "Author": "University Course Material",
+            "Publisher": "University Press",
+            "Publication Year": 2024,
+            "ISBN": "1234567890123"
+          }
+        ],
+        "Recommended Reading": [
+          {
+            "Title": "IT Governance: Policies and Procedures, 2024 Edition",
+            "Authors": "Michael Wallace, Lawrence Webber",
+            "Publisher": "Wolters Kluwer Law & Business",
+            "Publication Year": 2024,
+            "ISBN": "9781454877638"
+          }
+        ],
+        "Online Platforms": [
+          "Moodle",
+          "Coursera for Campus"
+        ],
+        "Software Tools": [
+          "IBM Rational Software",
+          "Microsoft Project"
+        ],
+        "Study Groups": [
+          "Online Study Forum on Moodle",
+          "Weekly Virtual Meet-up Groups"
+        ]
+      },
+      "Professional Development": {
+        "Internships": "Guidance and support for securing IT governance-related internships",
+        "Career Services": "Career counseling and resume workshops tailored for IT governance roles",
+        "Networking": "Annual IT Governance Conference and monthly webinars with industry leaders"
+      },
+      "Well-being and Support": {
+        "Student Support Services": "Counseling services, academic advising, and IT support",
+        "Work-Life Balance": "Tips on managing study time and stress during the coursework"
+      },
+      "Feedback and Improvement": {
+        "Continuous Improvement": "Bi-annual feedback surveys to improve course content and delivery",
+        "Revision History": "Documented updates and revisions of course materials based on student and faculty feedback"
+      }
+    }
+  }
+  

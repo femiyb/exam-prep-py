@@ -1,0 +1,156 @@
+{
+  "ICS": {
+    "Course Title": "Information and Cyber Security 800",
+    "Course Overview": {
+      "Course Title": "Information and Cyber Security 800",
+      "Course Objectives": [
+        "Understand the principles and practices of cryptography and network security.",
+        "Gain practical knowledge of securing information systems.",
+        "Learn to evaluate and implement security measures for different types of data and systems.",
+        "Develop skills to analyze and mitigate cybersecurity threats."
+      ],
+      "Prerequisites": [
+        "Basic understanding of computer networks",
+        "Familiarity with programming languages",
+        "Fundamental knowledge of operating systems (recommended but not required)"
+      ],
+      "Credits": 15
+    },
+    "Curriculum Outline": {
+      "Core Topics": [
+        "Introduction to Cryptography",
+        "Encryption and Decryption",
+        "Public Key Cryptography",
+        "Digital Signatures",
+        "Network Security Protocols",
+        "Cybersecurity Threats and Mitigation"
+      ],
+      "Seminar/Workshop Details": [
+        "Hands-on Encryption Workshop",
+        "Cybersecurity Threat Analysis Seminar"
+      ]
+    },
+    "Detailed Syllabus": [
+      {
+        "Week": 1,
+        "Topic": "Introduction to Cryptography",
+        "Reading": "Chapter 1: The Basics of Cryptography from 'An Introduction to Cryptography'",
+        "Assignment": "Essay on the history and importance of cryptography"
+      },
+      {
+        "Week": 2,
+        "Topic": "Encryption and Decryption",
+        "Reading": "Chapter 2: Encryption and Decryption Techniques from 'Cryptography and Network Security Principles and Practice'",
+        "Assignment": "Lab: Implement basic encryption algorithms"
+      },
+      {
+        "Week": 3,
+        "Topic": "Public Key Cryptography",
+        "Reading": "Chapter 3: Public Key Infrastructure from 'Applied Cryptography'",
+        "Assignment": "Case study analysis on PKI implementations"
+      },
+      {
+        "Week": 4,
+        "Topic": "Digital Signatures",
+        "Reading": "Chapter 4: Digital Signatures and Certificates from 'An Introduction to Cryptography'",
+        "Assignment": "Project: Create and verify digital signatures"
+      },
+      {
+        "Week": 5,
+        "Topic": "Network Security Protocols",
+        "Reading": "Chapter 5: Network Security Essentials from 'Information Security and Cyber Security Guidelines Notes'",
+        "Assignment": "Research paper on SSL/TLS protocols"
+      },
+      {
+        "Week": 6,
+        "Topic": "Cybersecurity Threats and Mitigation",
+        "Reading": "Chapter 6: Understanding Cybersecurity Threats from 'Effective Cybersecurity: A Guide to Using Best Practices and Standards'",
+        "Assignment": "Presentation on recent cybersecurity breaches and mitigation strategies"
+      },
+      {
+        "Week": 7,
+        "Topic": "Intrusion Detection and Prevention",
+        "Reading": "Chapter 7: Intrusion Detection Systems from 'Cryptography and Network Security Principles and Practice'",
+        "Assignment": "Lab: Configure and test an IDS/IPS"
+      },
+      {
+        "Week": 8,
+        "Topic": "Final Project and Review",
+        "Activity": "Comprehensive review and project presentations",
+        "Assignment": "Final project submission and peer review"
+      }
+    ],
+    "Study Schedule": {
+      "Time Management Tips": [
+        "Set aside specific times each week dedicated to reading and assignments.",
+        "Utilize a calendar to keep track of deadlines and milestones."
+      ],
+      "Important Deadlines": [
+        "Week 4: Digital Signatures Project",
+        "Week 6: Research Paper Submission",
+        "Week 7: IDS/IPS Lab Report",
+        "Week 8: Final Project Submission"
+      ]
+    },
+    "Assessment Methods": {
+      "Grading Policy": {
+        "Assignments": 40,
+        "Exam": 60
+      },
+      "Assignment Guidelines": {
+        "Format": "Assignments should be typed and formatted according to APA guidelines.",
+        "Submission": "All assignments must be submitted via the course's online portal.",
+        "Evaluation": "Assignments will be evaluated based on accuracy, completeness, and adherence to guidelines."
+      },
+      "Exam Preparation": [
+        "Review lecture notes and readings regularly.",
+        "Participate in study groups to discuss and clarify concepts."
+      ]
+    },
+    "Resources": {
+      "Prescribed Textbooks": [
+        {
+          "Title": "Effective Cybersecurity: A Guide to Using Best Practices and Standards",
+          "Author": "William Stallings",
+          "Publisher": "Pearson",
+          "Publication Year": 2018,
+          "ISBN": "9780134772806"
+        }
+      ],
+      "Recommended Reading": [
+        {
+          "Title": "Management of Information Security (6th Edition)",
+          "Authors": "Michael E. Whitman and Herbert J. Mattord",
+          "Publisher": "Cengage Learning",
+          "Publication Year": 2019,
+          "ISBN": "9781337405713"
+        }
+      ],
+      "Online Platforms": [
+        "Coursera",
+        "edX"
+      ],
+      "Software Tools": [
+        "Wireshark",
+        "Kali Linux"
+      ],
+      "Study Groups": [
+        "Cybersecurity Club",
+        "Cryptography Study Group"
+      ]
+    },
+    "Professional Development": {
+      "Internships": "Guidance on securing internships in cybersecurity through career services.",
+      "Career Services": "Access to career counseling and job placement assistance.",
+      "Networking": "Opportunities to network with professionals through seminars and workshops."
+    },
+    "Well-being and Support": {
+      "Student Support Services": "Access to mental health resources and academic support services.",
+      "Work-Life Balance": "Tips on maintaining a healthy balance between studies and personal life."
+    },
+    "Feedback and Improvement": {
+      "Continuous Improvement": "Regular feedback sessions to assess and improve course content and delivery.",
+      "Revision History": "Document changes and updates to the course for future reference."
+    }
+  }
+}

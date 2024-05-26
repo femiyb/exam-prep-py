@@ -1,0 +1,157 @@
+{
+    "ASE": {
+      "Course Title": "Advanced Software Engineering 800",
+      "Course Overview": {
+        "Course Title": "Advanced Software Engineering 800",
+        "Course Objectives": [
+          "Understand key software engineering concepts, including development methodologies, design patterns, and testing strategies.",
+          "Apply various software process models in practical scenarios.",
+          "Design, implement, and maintain software systems effectively.",
+          "Utilize advanced software testing techniques to ensure quality and reliability."
+        ],
+        "Prerequisites": [
+          "Bachelor's degree in Information Technology, Computer Science, or related field",
+          "Basic knowledge of programming and system design",
+          "Understanding of database systems (optional)"
+        ],
+        "Credits": 15
+      },
+      "Curriculum Outline": {
+        "Core Topics": [
+          "Software Development Life Cycle (SDLC)",
+          "Requirements Engineering",
+          "Software Design and Architecture",
+          "Software Testing and Quality Assurance",
+          "Software Maintenance and Evolution",
+          "Project Management"
+        ],
+        "Seminar/Workshop Details": [
+          "Workshop on Agile Methodologies",
+          "Seminar on Current Trends in Software Testing"
+        ]
+      },
+      "Detailed Syllabus": [
+        {
+          "Week": 1,
+          "Topic": "Introduction to Software Engineering and Software Processes",
+          "Reading": "Chapter 1: Introduction - Sommerville; Chapter 2: Software Processes - Sommerville",
+          "Assignment": "Essay on the evolution of software engineering"
+        },
+        {
+          "Week": 2,
+          "Topic": "Software Requirements and Specifications",
+          "Reading": "Chapter 4: Software Requirements - Sommerville; Chapter 5: Requirements Engineering Process - Sommerville",
+          "Assignment": "Develop a requirements specification document for a library management system"
+        },
+        {
+          "Week": 3,
+          "Topic": "Software Design and Software Architecture",
+          "Reading": "Chapter 5: System Modeling - Sommerville; Chapter 11: Design and Implementation - Sommerville",
+          "Assignment": "Design an architecture for an online shopping system"
+        },
+        {
+          "Week": 4,
+          "Topic": "Software Development Models",
+          "Reading": "Chapter 3: Agile Software Development - Sommerville; Chapter 2: Process Models in Software Engineering - Pressman",
+          "Assignment": "Compare Agile and Waterfall models"
+        },
+        {
+          "Week": 5,
+          "Topic": "Software Testing and Quality Assurance",
+          "Reading": "Chapter 6: Software Testing - Sommerville; Chapter 8: Software Testing Techniques - Pressman",
+          "Assignment": "Prepare test cases for a given software module"
+        },
+        {
+          "Week": 6,
+          "Topic": "Software Maintenance and Evolution",
+          "Reading": "Chapter 9: Software Evolution - Sommerville; Chapter 21: Software Maintenance - Pressman",
+          "Assignment": "Case study on software maintenance challenges"
+        },
+        {
+          "Week": 7,
+          "Topic": "Advanced Topics in Software Engineering",
+          "Reading": "Chapter 10: Socio-technical Systems - Sommerville; Chapter 25: Emerging Trends in Software Engineering - Pressman",
+          "Assignment": "Research paper on the impact of IoT on Software Engineering"
+        },
+        {
+          "Week": 8,
+          "Topic": "Software Management and Professional Practice",
+          "Activity": "Guest lecture on Software Project Management",
+          "Assignment": "Presentation on ethical issues in software development"
+        }
+      ],
+      "Study Schedule": {
+        "Time Management Tips": [
+          "Allocate specific times for reading and assignments each week to stay on schedule.",
+          "Use project management tools to track your progress and deadlines."
+        ],
+        "Important Deadlines": [
+          "Assignment 1 due by end of Week 2",
+          "Mid-term project due by end of Week 4",
+          "Final project due by end of Week 8",
+          "End of semester exam on last day of Week 8"
+        ]
+      },
+      "Assessment Methods": {
+        "Grading Policy": {
+          "Assignments": 40,
+          "Exam": 60
+        },
+        "Assignment Guidelines": {
+          "Format": "All assignments must be submitted in PDF format.",
+          "Submission": "Assignments must be submitted through the online learning management system.",
+          "Evaluation": "Assignments will be graded based on clarity, depth of analysis, and adherence to assignment guidelines."
+        },
+        "Exam Preparation": [
+          "Review all reading materials and lecture notes.",
+          "Participate in study groups to discuss and clarify key concepts."
+        ]
+      },
+      "Resources": {
+        "Prescribed Textbooks": [
+          {
+            "Title": "Software Engineering",
+            "Author": "Ian Sommerville",
+            "Publisher": "Pearson Education",
+            "Publication Year": 2016,
+            "ISBN": "9780133943030"
+          }
+        ],
+        "Recommended Reading": [
+          {
+            "Title": "Software Engineering: A Practitioner's Approach",
+            "Authors": "Roger S. Pressman, Bruce Maxim",
+            "Publisher": "McGraw-Hill Education",
+            "Publication Year": 2015,
+            "ISBN": "9780078022128"
+          }
+        ],
+        "Online Platforms": [
+          "University LMS for course materials and assignments",
+          "GitHub for code sharing and collaboration"
+        ],
+        "Software Tools": [
+          "Eclipse IDE for Java Developers",
+          "Microsoft Visio for diagramming and design"
+        ],
+        "Study Groups": [
+          "Weekly study group meetings on Wednesdays at 6 PM",
+          "Online discussion forums available 24/7"
+        ]
+      },
+      "Professional Development": {
+        "Internships": "Guidance and referrals to software engineering internships available through the career services office.",
+        "Career Services": "Resume reviews and mock interviews available to prepare students for software engineering positions.",
+        "Networking": "Annual software engineering conference hosted by the department, featuring industry speakers and networking opportunities."
+      },
+      "Well-being and Support": {
+        "Student Support Services": "Academic counseling and tutoring available for struggling students.",
+        "Work-Life Balance": "Tips on maintaining a healthy work-life balance while managing course load."
+      },
+      "Feedback and Improvement": {
+        "Continuous Improvement": "Bi-annual feedback surveys to collect student opinions on course content and teaching methods.",
+        "Revision History": "Course content and curriculum updated annually based on feedback and the latest industry trends."
+      }
+    }
+  }
+  

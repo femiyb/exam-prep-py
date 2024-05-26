@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "question": "Case Study: Investigating User Satisfaction with a New IT System",
+        "description": "Tech Solutions Inc. recently implemented a new IT system to enhance operational efficiency and user experience. The company wants to evaluate user satisfaction with the new system and identify areas for improvement. A mixed methods approach combining qualitative and quantitative research is considered.",
+        "tasks": [
+            "Describe how Tech Solutions Inc. can design a mixed methods study to investigate user satisfaction with the new IT system. What qualitative and quantitative methods should be employed?",
+            "Identify potential challenges in integrating qualitative and quantitative data in this study. How can these challenges be addressed to ensure comprehensive and cohesive findings?",
+            "Discuss the advantages of using a mixed methods approach in this context. How does it provide a more comprehensive understanding of user satisfaction compared to using a single method?",
+            "Propose a plan for reporting the findings of the mixed methods study to stakeholders. What key information should be included to effectively communicate the results and recommendations?"
+        ],
+        "hint": "Focus on the design of mixed methods research, including data collection, integration, and reporting strategies to assess user satisfaction."
+    },
+    {
+        "id": 2,
+        "question": "Case Study: Assessing the Impact of Cybersecurity Training in a Financial Institution",
+        "description": "Secure Bank recently implemented a comprehensive cybersecurity training program for its employees to mitigate security risks. The bank wants to evaluate the effectiveness of this training program in improving employees' cybersecurity awareness and practices.",
+        "tasks": [
+            "Outline a research design to assess the impact of the cybersecurity training program at Secure Bank. What pretest-posttest measures should be included?",
+            "Identify the key variables to be measured and discuss the methods of data collection for both pre-training and post-training assessments.",
+            "Discuss the potential challenges in conducting this research and how they can be mitigated. Consider issues such as participant engagement and data accuracy.",
+            "Explain how the findings from this study can be used to improve future cybersecurity training programs at Secure Bank."
+        ],
+        "hint": "Focus on designing a robust evaluation study, including pretest-posttest measures, data collection methods, and strategies for addressing research challenges."
+    },
+    {
+        "id": 3,
+        "question": "Case Study: Exploring Technology Adoption in a Healthcare Setting",
+        "description": "HealthCare Plus has introduced a new electronic health record (EHR) system to improve patient care and operational efficiency. The management wants to understand how healthcare professionals are adapting to the new system and identify factors influencing its adoption.",
+        "tasks": [
+            "Design a qualitative research study to explore the experiences of healthcare professionals using the new EHR system. What methods of data collection would be most effective?",
+            "Identify the key themes that should be explored during the data collection process. How can these themes help in understanding the adoption of the EHR system?",
+            "Discuss the ethical considerations that must be addressed when conducting research in a healthcare setting. How can the research team ensure compliance with ethical standards?",
+            "Propose a strategy for analyzing the qualitative data collected from healthcare professionals. What steps should be taken to ensure the reliability and validity of the findings?"
+        ],
+        "hint": "Focus on designing a qualitative study, including data collection methods, key themes, ethical considerations, and data analysis strategies."
+    },
+    {
+        "id": 4,
+        "question": "Case Study: Implementing IT Governance in a Growing Organization",
+        "description": "ABC Corp is a rapidly growing technology company facing challenges in aligning its IT strategy with business objectives, managing IT-related risks, and ensuring regulatory compliance. The company is considering adopting the COBIT framework to address these issues.",
+        "tasks": [
+            "How can ABC Corp use the COBIT framework to align its IT strategy with business objectives? What specific steps should the company take to implement this alignment effectively?",
+            "Identify the key IT-related risks ABC Corp might face in its current growth phase. How can the COBIT framework assist in identifying, assessing, and mitigating these risks?",
+            "Discuss how adopting the COBIT framework can help ABC Corp ensure compliance with relevant industry regulations and standards. Provide examples of COBIT principles that support regulatory compliance.",
+            "What potential challenges might ABC Corp encounter when implementing the COBIT framework? How can the company address these challenges to ensure a smooth transition?"
+        ],
+        "hint": "Focus on the principles of the COBIT framework and their application in aligning IT strategy, managing risks, and ensuring compliance."
+    }
+]

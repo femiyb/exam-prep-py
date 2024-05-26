@@ -11,7 +11,7 @@ evaluate_answer_bp = Blueprint('evaluate_answer_bp', __name__)
 load_dotenv()
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "https://eloquent-tulumba-cc13e7.netlify.app"}})
+CORS(app, resources={r"/*": {"origins": "https://richfield-exam-practice.netlify.app"}})
 
 # Gemini API Configuration
 gemini_api_key = os.environ.get("GEMINI_API_KEY")
